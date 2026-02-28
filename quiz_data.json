@@ -1,0 +1,3962 @@
+[
+  {
+    "question": "Texnologiya ta’limi metodikasi fanining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga faqat nazariy bilimlar berish",
+      "Texnologiya fanini o‘qitish usullarini o‘rgatish",
+      "Ishlab chiqarishni boshqarishni to’g’ri tashkil qilish",
+      "Texnik qurilmalarni ta’mirlash nazoratni to’g’ri tashkil qilish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasi fani nimani o‘rganadi?",
+    "options": [
+      "Pedagogik jarayonni tashkil etish yo‘llarini",
+      "Amaliy mashg‘ulotlar jarayonini to’g’ri tashkil qilish",
+      "O‘quvchilarning tartib intizomini nazorat qilish",
+      "O’quvchilar tomonidan laboratoriya mashg’ulotlarini o’kazish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasining vazifalaridan biri:",
+    "options": [
+      "O‘quvchilarga kasb tanlashga yo‘naltirish",
+      "Yozma ish o‘tkazishni tashkil etish tashkillashtirish",
+      "Sport mashg‘ulotlarini o’tishni tashkil etish",
+      "O’quvchilarni tibbiy ko‘rikdan o‘tkazishni tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasi qaysi fan bilan chambarchas bog‘liq?",
+    "options": [
+      "Astronomiya",
+      "Pedagogika",
+      "Geologiya",
+      "Zoologiya"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya ta’limining asosiy vazifasi nimadan iborat?",
+    "options": [
+      "O‘quvchilarda mehnat ko‘nikmalarini shakllantirish",
+      "O‘quvchilardan test olishni tashkillashtirish",
+      "O‘quvchilarga o‘yin o’ynashni tashkil qilish",
+      "O‘quvchilarga ma’ruza qilishni o‘rgatish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasida qanday metodlar qo‘llaniladi?",
+    "options": [
+      "Og‘zaki, amaliy va ko‘rgazmali",
+      "Og‘zaki va amaliy hamda test nazorati",
+      "Yozma ish va ko‘rgazmali qurollardan foydalanish",
+      "Test savollari va ko’rgazmali qurollardan foydalanish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasi nimani takomillashtiradi?",
+    "options": [
+      "O‘qitish jarayonini",
+      "Sport mashg‘ulotlarini",
+      "Tibbiy xizmatni",
+      "Savdo tizimini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi jarayonida asosiy e’tibor nimaga qaratiladi?",
+    "options": [
+      "Nazariy va amaliy uyg‘unlikka",
+      "Nazariyaga asoslangan",
+      "Amaliyotga asoslangan",
+      "Intizomiy jazoga asoslangan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasi o‘qituvchiga nimani o‘rgatadi?",
+    "options": [
+      "Darsni to‘g‘ri tashkil etish",
+      "Nazorat qilishni tashkil etish",
+      "Baho qo‘yish va uni nazorat qilish",
+      "Ma’ruza qilishni rejalashtirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasining obyekti nima?",
+    "options": [
+      "Texnologiya fanini o‘qitish jarayoni",
+      "Sport jarayoni",
+      "Tibbiy jarayon",
+      "Ishlab chiqarish korxonasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani maktab o‘quv rejasiga nima maqsadda kiritilgan?",
+    "options": [
+      "O‘quvchilarda mehnat va kasbiy ko‘nikmalarni shakllantirish",
+      "Nazariy bilim berish va kasbiy ko‘nikmalarni shakllantirish",
+      "Sportni rivojlantirish va jahon arenalariga chiqish",
+      "Oraliq va yakuniy testlarni o‘tkazish va uni nazorat qilish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining dastlabki nomi qanday bo‘lgan?",
+    "options": [
+      "Informatika",
+      "Mehnat ta’limi",
+      "Astranomiya",
+      "Tasviriy san’at"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya fanining rivojlanishi qaysi jarayon bilan bog‘liq?",
+    "options": [
+      "Sanoat va ishlab chiqarish taraqqiyoti bilan",
+      "Ishlab chiqarish taraqqiyoti va sport bilan",
+      "Tibbiyot sohasining amaliy va nazariy fanlar bilan bog’liqligi",
+      "ishlab chiqarish taraqqiyotini turizm bilan bog’liqligi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mustaqillikdan so‘ng texnologiya fanida qanday o‘zgarish bo‘ldi?",
+    "options": [
+      "Mazmuni yangilandi va takomillashtirildi",
+      "O’quv jarayonlaridan fanlar olib tashlandi",
+      "Amaliy va nazariy fan bo‘lib qoldi",
+      "Soatlari butunlay qisqartirildi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining o‘quv rejasidagi o‘rni nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchilarni kasb-hunarga yo‘naltirishga",
+      "O‘quvchilarni yozma ish olishga tayyorlash",
+      "O‘quvchilarni sport mashg‘ulotlariga o’rgatish",
+      "O‘quvchilarni dam olishlarini tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining tarixiy taraqqiyoti nimani aks ettiradi?",
+    "options": [
+      "Jamiyat ehtiyojlari va ishlab chiqarish rivojini",
+      "Maktabda tartib intizomni yo’lga qo’yish",
+      "O‘yin jarayonini to’g’ri tashkil etish",
+      "Turizm sayohatni tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hozirgi kunda texnologiya fanining asosiy yo‘nalishi nimaga qaratilgan?",
+    "options": [
+      "Zamonaviy kasblar va amaliy ko‘nikmalarga",
+      "O’quvchilarni qo‘l mehnatiga o’rgatish",
+      "O’quvchilarni nazariy va amaliy ko’nikmalarini shakllantirish",
+      "O’quvchilarni test yechishga o’rgatish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quv rejasida texnologiya faniga ajratilgan soatlar nimaga bog‘liq?",
+    "options": [
+      "Davlat ta’lim standartlariga",
+      "O‘qituvchining xohishiga",
+      "O‘quvchilarning istagiga",
+      "Sport o’yini jadvaliga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining maktabdagi ahamiyati nimada?",
+    "options": [
+      "O‘quvchilarda mustaqil ishlash ko‘nikmasini rivojlantirish",
+      "Qo’shimcha fan sifatida ahamiyatida faqat baho qo‘yish",
+      "O’quvchilarni odob-axloqini nazorat qilish",
+      "Faqat chorakliklar yakunlarida nazorat yozma ish olish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining tarixiy rivoji qaysi omil bilan uzviy bog‘liq?",
+    "options": [
+      "Ilm-fan va texnika taraqqiyoti bilan",
+      "Ilm-fan va texnika jismoniy tarbiya va sport bilan",
+      "Ilm-fan va texnika san’at va madaniyat bilan",
+      "Ilm-fan va texnika adabiyot va ona tili bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologik ta’limning uzviyligini ta’minlash nima maqsadda?",
+    "options": [
+      "Turli ta’lim bosqichlarida bilim va ko‘nikmalarni uzviy bog‘lash",
+      "Maktabda dars soatini ko‘paytirib o’quvchilar vaqtini qamrab olish",
+      "Oliy ta’limni ta’lim jarayonlaridagi fanlar majmuasini qisqartirish",
+      "Faqat nazorat topshiriqlaridagi savollar va testlar sonini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya asosida maktabgacha ta’limda texnologik ko‘nikmalar nimaga qaratiladi?",
+    "options": [
+      "Oddiy amaliy ishlarni bajarishga",
+      "Oddiy amaliy ishlarni yozma ish bajarishga",
+      "Sport mashg‘ulotlariga jalb qilishga",
+      "Nazariy bilimlargagina qaratiladi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Umumiy o‘rta ta’limda texnologik ta’limning uzviyligi nimani anglatadi?",
+    "options": [
+      "O‘quvchilarning ilgari o‘rgangan ko‘nikmalarini rivojlantirish",
+      "O‘quvchilarning ilgari o‘rgangan yangi mavzularni o‘rganish ko’nikmalarini rivojlantirish",
+      "O‘quvchilarning ilgari o‘rgangan test topshiriqlarini yechish ko’nikmalarini rivojlantirish",
+      "Ta’limda faqat baholash va taqqoslash muhitini yaratish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Professional ta’lim tizimida konsepsiyaning vazifasi nima?",
+    "options": [
+      "O‘quvchilarni kasbga tayyorlash",
+      "Faqatgina nazariy bilim berish",
+      "O‘quvchilarni kasbga tayyorlash sport mashg‘ulotlarini o‘tkazish",
+      "O‘quvchilarni kasbga tayyorlash dam olish jarayonini tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Oliy ta’limda texnologik ta’lim uzviyligi nimaga yordam beradi?",
+    "options": [
+      "Ilmiy va amaliy tayyorgarlikni mukammallashtirish",
+      "Ilmiy va amaliy test topshiriqlarini yechishni mustahkamlash",
+      "Ilmiy va amaliy nazorat ishlarini o‘tkazish jarayonlarini tashkil etish",
+      "Ilmiy va amaliy sport mashg‘ulotlarini mukammallashtirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya qaysi printsipga asoslanadi?",
+    "options": [
+      "Bilim va ko‘nikmalarni rivojlantirish",
+      "Bilim va ko‘nikmalarni maktab soatlariga bog‘lanish",
+      "Bilim va ko‘nikmalarni yozma ishga e’tibor berish",
+      "Bilim va ko‘nikmalarni dam olishga e’tibor qaratish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ta’limning uzviyligi qaysi tizimlarni qamrab oladi?",
+    "options": [
+      "Maktabgacha, umumiy o‘rta, professional va oliy ta’lim",
+      "Maktabgacha, umumiy o‘rta, umumiy va o’rta ta’lim maktablarini va professional",
+      "Maktabgacha, umumiy o‘rta, oliy ta’lim va umumiy va o’rta ta’lim maktablarini",
+      "Maktabgacha, umumiy o‘rta, professional ta’lim va oliy ta’lim tizimini qamraydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya asosida o‘quv jarayoni qanday tashkil qilinadi?",
+    "options": [
+      "Har bir bosqich oldingi bilim va ko‘nikmalar bilan uzviy bog‘lanadi",
+      "Har bir bosqich keyingi bilim va ko‘nikmalar bilan bog‘lanadi",
+      "Har bir bosqich nazariy mashg‘ulotlar ko‘nikmalari bilan uzviy bog‘lanadi",
+      "Har bir bosqich amaliy mashg‘ulotlar ko‘nikmalari bilan uzviy bog‘lanadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya texnologik ta’limni qanday mukammallashtiradi?",
+    "options": [
+      "O‘quvchilarning amaliy va nazariy bilimlarini uyg‘unlashtirib",
+      "O‘quvchilarning amaliy va test topshiriqlarini ko‘paytirib mukammallashtiradi",
+      "O‘quvchilarning amaliy va sport mashg‘ulotlariga e’tibor berib mukammallashtiradi",
+      "O‘quvchilarning amaliy va dam olish va hordiq vaqtini oshirib mukammallashtiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya amalga oshirilishi natijasida nimaga erishiladi?",
+    "options": [
+      "Ta’limning bosqichi uzviy va samarali bo‘ladi",
+      "Ta’limning bosqichi uzviy testva savol-javob  natijalari yaxshilanadi",
+      "Ta’limning bosqichi uzviy baholar va nazorat ballari ijobiy oshadi",
+      "Ta’limning bosqichi uzviy maktab soatlari, yangi ish o’rni  ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘zaro integratsiya nimani ta’minlaydi?",
+    "options": [
+      "Turli ta’lim bosqichlarida bilim va ko‘nikmalarni uzviy bog‘lash",
+      "Turli ta’lim bosqichlarida faqat maktab soatlarining ko‘payishini",
+      "Turli ta’lim bosqichlarida faqat oliy ta’limni rolini qisqartirish",
+      "Turli ta’lim bosqichlarida faqat testlarni ko‘paytirish ta’minlanadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Maktabgacha ta’lim tizimi integratsiyada nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchilarda boshlang‘ich amaliy ko‘nikmalarni shakllantirish",
+      "O‘quvchilarda faqat yozma ish ko‘nikmalarni shakllantirish",
+      "O‘quvchilarda boshlang‘ich amaliy sport mashg‘ulotlariga jalb qilish va sportga chorlash",
+      "O‘quvchilarda boshlang‘ich amaliy nazariy bilimga asoslangan holda dars mashg’ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Umumiy o‘rta ta’lim integratsiyada qanday rol o‘ynaydi?",
+    "options": [
+      "Bilimlarni rivojlantirib, mustahkamlash",
+      "Bilimlarni rivojlantirib, mustahkamlash yangi mavzularni kiritishni",
+      "Bilimlarni rivojlantirib, mustahkamlash baho qo‘yish jarayonini tashkil etish",
+      "Bilimlarni rivojlantirib, mustahkamlash test topshiriqlarini yechish sonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Professional ta’lim tizimining integratsiyadagi vazifasi nima?",
+    "options": [
+      "O‘quvchilarni kasbga tayyorlash",
+      "O‘quvchilarni kasbga tayyorlash nazariy bilim berish uchun",
+      "O‘quvchilarni kasbga tayyorlash test o‘tkazish jarayoni uchun",
+      "O‘quvchilarni kasbga tayyorlash dam olish jarayoni uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Oliy ta’lim integratsiyada nimaga erishadi?",
+    "options": [
+      "Ilmiy va amaliy tayyorgarlikni mukammallashtirish",
+      "Ilmiy va amaliy test topshiriqlarini yechish mukammallashtirish",
+      "Ilmiy va amaliy nazorat ishlarini o‘tkazish mukammallashtirish",
+      "Ilmiy va amaliy sport mashg‘ulotlarini mukammallashtirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘zaro integratsiya printsipi nimaga asoslanadi?",
+    "options": [
+      "Bilim va ko‘nikmalarni rivojlantirish",
+      "Bilim va ko‘nikmalarni maktab soatlariga bog‘lanish",
+      "Bilim va ko‘nikmalarni yozma ishga e’tibor qratish",
+      "Bilim va ko‘nikmalarni dam olishga e’tibor qratish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Integratsiya qaysi tizimlarni qamrab oladi?",
+    "options": [
+      "Maktabgacha, umumiy o‘rta, professional va oliy ta’lim",
+      "Maktabgacha, umumiy o‘rta, umumiy va o’rta ta’lim maktablarini va professional",
+      "Maktabgacha, umumiy o‘rta, oliy ta’lim va umumiy va o’rta ta’lim maktablarini",
+      "Maktabgacha, umumiy o‘rta, professional ta’lim va oliy ta’lim tizimini qamraydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Integratsiya orqali o‘quv jarayoni qanday bo‘ladi?",
+    "options": [
+      "Bilim va ko‘nikmalar bilan uzviy bog‘lanadi",
+      "Bilim va ko‘nikmalar yangi mavzular kiritiladi",
+      "Bilim va ko‘nikmalar nazariy mashg‘ulotlar",
+      "Bilim va ko‘nikmalar amaliy mashg‘ulotlar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Integratsiya texnologik ta’limni qanday rivojlantiradi?",
+    "options": [
+      "O‘quvchilarning amaliy va nazariy bilimlarini uyg‘unlashtiradi",
+      "O‘quvchilarning amaliy va test topshiriqlarini ko‘paytiradi",
+      "O‘quvchilarning amaliy va sport mashg‘ulotlariga e’tibor beradi",
+      "O‘quvchilarning amaliy va dam olish vaqtini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Integratsiya amalga oshirilsa nimaga erishiladi?",
+    "options": [
+      "Ta’limning har bosqichi uzviy va samarali bo‘ladi",
+      "Ta’limning har bosqichi test natijalari yaxshilanadi",
+      "Ta’limning har bosqichi baholar oshadi",
+      "Ta’limning har bosqichi maktab soatlari ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining amaliy fanlar blok modulida asosiy maqsad nima?",
+    "options": [
+      "O‘quvchilarda amaliy ko‘nikmalarni shakllantirish",
+      "O‘quvchilarda amaliy ko‘nikmalarni nazariy bilim berish",
+      "O‘quvchilarda amaliy ko‘nikmalarni test topshiriqlarini yechish",
+      "O‘quvchilarda amaliy ko‘nikmalarni sport mashg‘ulotlarini o‘tkazish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy fanlar blok moduliga qaysi fanlar kiradi?",
+    "options": [
+      "Mehnat ta’limi, texnologiya amaliyotlari, dizayn va loyihalashtirish",
+      "Mehnat ta’limi, texnologiya matematika",
+      "Mehnat ta’limi, texnologiya fizika",
+      "Mehnat ta’limi, texnologiya tarix"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Umumiy o‘rta ta’lim bitiruvchilaridan texnologiya fanidan nimani talab qilinadi?",
+    "options": [
+      "Nazariy va amaliy bilimlarni uyg‘unlashtirish ko‘nikmasi",
+      "Nazariy va amaliy test topshirish ko‘nikmasi",
+      "Nazariy va amaliy yozma ish topshirish",
+      "Nazariy va amaliy sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bitiruvchilarga qo‘yiladigan talablar qaysi sohalarni qamrab oladi?",
+    "options": [
+      "Dizayn, loyihalashtirish, mehnat ko‘nikmalari",
+      "Dizayn, loyihalashtirish, mehnat matematik hisob-kitoblar",
+      "Dizayn, loyihalashtirish, mehnat nazariy ma’ruzalar",
+      "Dizayn, loyihalashtirish, mehnat test topshiriqlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy fanlar blok moduli o‘quv jarayonida qanday rol o‘ynaydi?",
+    "options": [
+      "O‘quvchilarning mustaqil ishlash va yaratish qobiliyatini rivojlantiradi",
+      "O‘quvchilarning mustaqil ishlash nazariy bilimlarni oshiradi",
+      "O‘quvchilarning mustaqil ishlash test yechishga e’tibor beradi",
+      "O‘quvchilarning mustaqil ishlash sport mashg‘ulotlarini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining amaliy fanlar blok moduli qanday ko‘nikmalarni rivojlantiradi?",
+    "options": [
+      "Loyihalashtirish, konstruktorlik, ijodiy va mehnat ko‘nikmalarini",
+      "Loyihalashtirish, konstruktorlik, ijodiy yozma ish ko‘nikmalarini",
+      "Loyihalashtirish, konstruktorlik, ijodiy sport ko‘nikmalarini",
+      "Loyihalashtirish, konstruktorlik, ijodiy test yechish ko‘nikmalarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Umumiy o‘rta ta’lim bitiruvchilari texnologiya fanidan qanday bilimlarga ega bo‘lishi kerak?",
+    "options": [
+      "Amaliy ishlarni mustaqil bajarish va ijodiy fikrlash qobiliyati",
+      "Amaliy ishlarni mustaqil test topshiriqlarini yechish",
+      "Amaliy ishlarni mustaqil nazariy bilimni yodlash",
+      "Amaliy ishlarni mustaqil sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Blok modul o‘quv jarayoni nimaga asoslanadi?",
+    "options": [
+      "Nazariy va amaliy bilimlarni uyg‘unlashtirishga",
+      "Nazariy va amaliy nazariy bilimga",
+      "Nazariy va amaliy test topshiriqlariga",
+      "Nazariy va amaliy dam olishga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy fanlar blok modulini o‘rganish natijasida o‘quvchi nimaga erishadi?",
+    "options": [
+      "Mustaqil ishlash, loyihalashtirish va ijodiy ko‘nikmalarni rivojlantiradi",
+      "Mustaqil ishlash, loyihalashtirish test natijalarini oshiradi",
+      "Mustaqil ishlash, loyihalashtirish baholarini oshiradi",
+      "Mustaqil ishlash, loyihalashtirish nazorat ishlarini bajaradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Blok moduldagi amaliy fanlar o‘quvchiga nimani tayyorlaydi?",
+    "options": [
+      "Kelajakda kasbga yo‘naltirish va texnologik faoliyatga tayyorlash",
+      "Kelajakda kasbga yo‘naltirish yozma ishga tayyorlash",
+      "Kelajakda kasbga yo‘naltirish test topshiriqlariga tayyorlash",
+      "Kelajakda kasbga yo‘naltirish sport mashg‘ulotlariga tayyorlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani konsepsiyasining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda nazariy va amaliy texnologik bilimlarni shakllantirish",
+      "O‘quvchilarda nazariy va sport mashg‘ulotlarini o‘tkazish",
+      "O‘quvchilarda nazariy va test topshiriqlarini yechish",
+      "O‘quvchilarda nazariy va yozma ishlarni bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya asosida texnologiya fani qanday vazifalarni bajaradi?",
+    "options": [
+      "Bilim, ko‘nikma va amaliy tayyorgarlikni rivojlantirish",
+      "Bilim, ko‘nikma va test topshiriqlarini yechish",
+      "Bilim, ko‘nikma va yozma ish topshirish",
+      "Bilim, ko‘nikma va sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya rivojlanishining ustuvor yo‘nalishlaridan biri nimaga qaratilgan?",
+    "options": [
+      "O‘quvchilarning mustaqil ishlash va ijodiy qobiliyatini oshirish",
+      "O‘quvchilarning mustaqil ishlash nazariy bilimni yodlash",
+      "O‘quvchilarning mustaqil ishlash test natijalarini oshirish",
+      "O‘quvchilarning mustaqil ishlash dam olish vaqtini ko‘paytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya vazifalariga quyidagilar kiradi:",
+    "options": [
+      "Amaliy ko‘nikmalarni shakllantirish va loyiha faoliyatiga tayyorlash",
+      "Amaliy ko‘nikmalarni shakllantirish yozma ish topshiriqlarini bajarish",
+      "Amaliy ko‘nikmalarni shakllantirish nazorat ishlarini oshirish",
+      "Amaliy ko‘nikmalarni shakllantirish sport mashg‘ulotlarini tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani konsepsiyasi kimlarga xizmat qiladi?",
+    "options": [
+      "Umumiy o‘rta ta’lim muassasalari o‘quvchilari va bitiruvchilari",
+      "Umumiy o‘rta ta’lim oliy ta’lim talabalari",
+      "Umumiy o‘rta ta’lim maktabgacha bolalar",
+      "Umumiy o‘rta ta’lim sportchilarga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiyaning ustuvor yo‘nalishlari nimani rivojlantiradi?",
+    "options": [
+      "Texnologik, amaliy va ijodiy ko‘nikmalarni",
+      "Texnologik, amaliy va yozma ishlarni",
+      "Texnologik, amaliy va sport mashg‘ulotlarini",
+      "Texnologik, amaliy va test yechish ko‘nikmalarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiyaning asosiy printsipi nima?",
+    "options": [
+      "Bilim va ko‘nikmalarni bosqichma-bosqich rivojlantirish va uzviy bog‘lash",
+      "Bilim va ko‘nikmalarni maktab soatlarini oshirish",
+      "Bilim va ko‘nikmalarni nazariy bilimga e’tibor berish",
+      "Bilim va ko‘nikmalarni dam olishga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya doirasida o‘quv jarayoni qanday tashkil etiladi?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalar uyg‘unlashgan holda",
+      "Nazariy bilim va nazariy mashg‘ulotlar bilan",
+      "Nazariy bilim va test topshiriqlari bilan",
+      "Nazariy bilim va sport mashg‘ulotlari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya amalga oshirilsa nimaga erishiladi?",
+    "options": [
+      "O‘quvchilarning mustaqil ishlash va ijodiy qobiliyatlari rivojlanadi",
+      "O‘quvchilarning mustaqil ishlash test natijalari oshadi",
+      "O‘quvchilarning mustaqil ishlash baholar yaxshilanadi",
+      "O‘quvchilarning mustaqil ishlash yozma ishlar ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Konsepsiya rivojlanishining ustuvor yo‘nalishlari qaysilar bilan bog‘liq?",
+    "options": [
+      "Ta’lim sifatini oshirish va amaliy ko‘nikmalarni mustahkamlash bilan",
+      "Ta’lim sifatini oshirish test natijalari bilan",
+      "Ta’lim sifatini oshirish baholar bilan",
+      "Ta’lim sifatini oshirish sport mashg‘ulotlari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida tadqiqot metodlarining asosiy maqsadi nima?",
+    "options": [
+      "Ilmiy va amaliy faoliyatni samarali tashkil etish",
+      "Ilmiy va amaliy test natijalarini oshirish",
+      "Ilmiy va amaliy yozma ishlarni tayyorlash",
+      "Ilmiy va amaliy sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya tadqiqot metodlari qaysi jarayonni o‘rganadi?",
+    "options": [
+      "Ta’lim jarayonini va o‘quvchilarning faoliyatini",
+      "Ta’lim jarayonini va sport mashg‘ulotlarini",
+      "Ta’lim jarayonini va yozma ish topshiriqlarini",
+      "Ta’lim jarayonini va test yechish jarayonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tadqiqot metodlarining qaysi turi amaliy mashg‘ulotlarni o‘rganishga qaratilgan?",
+    "options": [
+      "Eksperimental metod",
+      "Nazariy tahlil",
+      "Test topshiriqlari",
+      "Baholash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida tadqiqot metodlari nima bilan tavsiflanadi?",
+    "options": [
+      "Nazariy va amaliy yondashuvlarni uyg‘unlashtirish",
+      "Nazariy va amaliy nazariy bilimga e’tibor",
+      "Nazariy va amaliy test natijalariga e’tibor",
+      "Nazariy va amaliy dam olishga e’tibor"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tadqiqot metodlari o‘qituvchiga nima beradi?",
+    "options": [
+      "Dars jarayonini rejalashtirish va samarali tashkil etish imkonini",
+      "Dars jarayonini rejalashtirish test natijalarini oshirish",
+      "Dars jarayonini rejalashtirish baholarni oshirish",
+      "Dars jarayonini rejalashtirish sport mashg‘ulotlarini tashkil etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani tadqiqot metodlariga qaysi metod kiradi?",
+    "options": [
+      "Kuzatish, eksperiment, taqqoslash, tahlil",
+      "Kuzatish, eksperiment, taqqoslash, yozma ish",
+      "Kuzatish, eksperiment, taqqoslash, sport mashg‘ulotlari",
+      "Kuzatish, eksperiment, taqqoslash, baholash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tadqiqot metodlarining nazariy qismi nimani o‘z ichiga oladi?",
+    "options": [
+      "Ta’lim jarayoni va kontseptsiyalarni tahlil qilish",
+      "Ta’lim jarayoni va amaliy mashg‘ulotlar",
+      "Ta’lim jarayoni va test topshiriqlarini yechish",
+      "Ta’lim jarayoni va sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Eksperimental metod texnologiya fanida nimaga xizmat qiladi?",
+    "options": [
+      "O‘quv jarayonini sinab ko‘rish va natijalarni aniqlash",
+      "O‘quv jarayonini sinab yozma ish topshiriqlarini tekshirish",
+      "O‘quv jarayonini sinab test topshiriqlarini yechish",
+      "O‘quv jarayonini sinab sport mashg‘ulotlarini o‘tkazish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tadqiqot metodlari o‘quvchilarga qanday foyda beradi?",
+    "options": [
+      "Amaliy va nazariy bilimlarni uyg‘unlashtirish va mustahkamlash",
+      "Amaliy va nazariy test natijalarini oshirish",
+      "Amaliy va nazariy sport mashg‘ulotlarini oshirish",
+      "Amaliy va nazariy baholarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tadqiqot metodlarining afzalligi nimada?",
+    "options": [
+      "Ta’lim jarayonini samarali va ilmiy asosda tashkil etish",
+      "Ta’lim jarayonini samarali test natijalarini oshirish",
+      "Ta’lim jarayonini samarali baholarni oshirish",
+      "Ta’lim jarayonini samarali sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining didaktik tamoyillari nima uchun kerak?",
+    "options": [
+      "Ta’lim jarayonini samarali va tizimli tashkil etish uchun",
+      "Ta’lim jarayonini samarali test natijalarini oshirish uchun",
+      "Ta’lim jarayonini samarali baholarni oshirish uchun",
+      "Ta’lim jarayonini samarali sport mashg‘ulotlariga e’tibor berish uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarning asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchilarning bilim, ko‘nikma va malakalarini tizimli shakllantirish",
+      "O‘quvchilarning bilim, ko‘nikma nazariy bilimni yodlash",
+      "O‘quvchilarning bilim, ko‘nikma test topshiriqlarini yechish",
+      "O‘quvchilarning bilim, ko‘nikma sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limida qaysi didaktik tamoyil eng asosiy hisoblanadi?",
+    "options": [
+      "Bilim va amaliy ko‘nikmalarni uyg‘unlashgan holda rivojlantirish",
+      "Bilim va amaliy test natijalarini oshirish",
+      "Bilim va amaliy nazariy bilim berish",
+      "Bilim va amaliy yozma ish topshiriqlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar qanday printsiplarga asoslanadi?",
+    "options": [
+      "Bosqichma-bosqich, faol, individual va integratsiyalashgan yondashuvlarga",
+      "Bosqichma-bosqich, faol, individual maktab soatlarini oshirishga",
+      "Bosqichma-bosqich, faol, individual sport mashg‘ulotlariga",
+      "Bosqichma-bosqich, faol, individual test topshiriqlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining didaktik tamoyillari o‘quvchiga qanday yordam beradi?",
+    "options": [
+      "Mustaqil fikrlash, amaliy ko‘nikmalar va ijodiy qobiliyatlarni rivojlantirish",
+      "Mustaqil fikrlash, amaliy test topshiriqlarini yechish",
+      "Mustaqil fikrlash, amaliy nazariy bilim yodlash",
+      "Mustaqil fikrlash, amaliy sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarga misol sifatida qaysi printsip kiradi?",
+    "options": [
+      "Faoliyatga yo‘naltirish",
+      "Faoliyatga yo‘naltirish yozma ishni oshirish",
+      "Faoliyatga yo‘naltirish test natijasini oshirish",
+      "Faoliyatga yo‘naltirish sport mashg‘ulotlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarni amalga oshirish orqali nimaga erishiladi?",
+    "options": [
+      "O‘quv jarayoni tizimli, samarali va uzviy bo‘ladi",
+      "O‘quv jarayoni tizimli, test natijalari oshadi",
+      "O‘quv jarayoni tizimli, baholar yaxshilanadi",
+      "O‘quv jarayoni tizimli, dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar qaysi bosqichlarda qo‘llaniladi?",
+    "options": [
+      "Maktabgacha, umumiy o‘rta, professional va oliy ta’lim tizimlarida",
+      "Maktabgacha, umumiy o‘rta, maktabda",
+      "Maktabgacha, umumiy o‘rta, oliy ta’limda",
+      "Maktabgacha, umumiy o‘rta, sport mashg‘ulotlarida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar texnologiya ta’limining qaysi jihatini rivojlantiradi?",
+    "options": [
+      "Nazariy va amaliy bilimlarni uyg‘unlashgan holda",
+      "Nazariy va amaliy test natijalarini",
+      "Nazariy va amaliy sport mashg‘ulotlarini",
+      "Nazariy va amaliy yozma ishlarni"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarni to‘g‘ri qo‘llash natijasida nimaga erishiladi?",
+    "options": [
+      "Ta’limning har bosqichi samarali va uzviy bo‘ladi",
+      "Ta’limning har bosqichi baholar oshadi",
+      "Ta’limning har bosqichi test natijalari yaxshilanadi",
+      "Ta’limning har bosqichi dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi jarayonini tahlil qilishning asosiy maqsadi nima?",
+    "options": [
+      "Ta’lim jarayonining samaradorligini aniqlash va takomillashtirish",
+      "Ta’lim jarayonining samaradorligini test natijalarini oshirish",
+      "Ta’lim jarayonining samaradorligini baholarni oshirish",
+      "Ta’lim jarayonining samaradorligini sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tushunchalar texnologiya ta’limida nimani ifodalaydi?",
+    "options": [
+      "Ta’lim jarayoni, metodlar va tamoyillar tizimini",
+      "Ta’lim jarayoni, metodlar test topshiriqlarini",
+      "Ta’lim jarayoni, metodlar yozma ishlarni",
+      "Ta’lim jarayoni, metodlar sport mashg‘ulotlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ta’lim jarayonini tahlil qilish qaysi jihatlarni o‘z ichiga oladi?",
+    "options": [
+      "Nazariy bilimlar, amaliy ko‘nikmalar va o‘quv faoliyati",
+      "Nazariy bilimlar, amaliy test topshiriqlarini yechish",
+      "Nazariy bilimlar, amaliy sport mashg‘ulotlarini bajarish",
+      "Nazariy bilimlar, amaliy yozma ishlarni bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tushunchalar o‘qituvchiga qanday yordam beradi?",
+    "options": [
+      "Darsni samarali rejalashtirish va tashkil etish imkonini beradi",
+      "Darsni samarali rejalashtirish test natijasini oshiradi",
+      "Darsni samarali rejalashtirish baholarni oshiradi",
+      "Darsni samarali rejalashtirish sport mashg‘ulotlarini tashkil etadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ta’lim jarayonini tahlil qilish orqali nimaga erishiladi?",
+    "options": [
+      "O‘quvchilarning bilim va ko‘nikmalarini yaxshilash, amaliy ishlarni takomillashtirish",
+      "O‘quvchilarning bilim va test natijalarini oshirish",
+      "O‘quvchilarning bilim va sport mashg‘ulotlarini oshirish",
+      "O‘quvchilarning bilim va baholarni oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tushunchalarga misol keltiring.",
+    "options": [
+      "Maqsad, vazifa, metod, vosita, natija",
+      "Maqsad, vazifa, metod, test topshiriqlari",
+      "Maqsad, vazifa, metod, yozma ishlar",
+      "Maqsad, vazifa, metod, sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tahlil jarayoni qaysi tamoyillarga asoslanadi?",
+    "options": [
+      "Faol, bosqichma-bosqich va amaliy yondashuvlarga",
+      "Faol, bosqichma-bosqich va nazariy bilimga",
+      "Faol, bosqichma-bosqich va test topshiriqlariga",
+      "Faol, bosqichma-bosqich va dam olishga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ta’lim jarayonini tahlil qilish qaysi maqsadga xizmat qiladi?",
+    "options": [
+      "Dars samaradorligini oshirish va o‘quv jarayonini mukammallashtirish",
+      "Dars samaradorligini oshirish test natijalarini oshirish",
+      "Dars samaradorligini oshirish baholarni oshirish",
+      "Dars samaradorligini oshirish sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tushunchalar o‘quv jarayonini qanday yaxshilaydi?",
+    "options": [
+      "Ta’limni tizimli, uzviy va samarali qiladi",
+      "Ta’limni tizimli, uzviy test natijasini oshiradi",
+      "Ta’limni tizimli, uzviy baholarni oshiradi",
+      "Ta’limni tizimli, uzviy sport mashg‘ulotlarini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tahlil va didaktik tushunchalarning qo‘llanilishi natijasida nimaga erishiladi?",
+    "options": [
+      "Ta’lim jarayoni uzviy, samarali va o‘quvchilar uchun foydali bo‘ladi",
+      "Ta’lim jarayoni uzviy, test natijalari oshadi",
+      "Ta’lim jarayoni uzviy, baholar yaxshilanadi",
+      "Ta’lim jarayoni uzviy, dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizimlar texnologiya ta’limida nima uchun kerak?",
+    "options": [
+      "Ta’lim jarayonini samarali va tizimli tashkil etish uchun",
+      "Ta’lim jarayonini samarali test natijalarini oshirish uchun",
+      "Ta’lim jarayonini samarali baholarni oshirish uchun",
+      "Ta’lim jarayonini samarali sport mashg‘ulotlariga e’tibor berish uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limini tashkil qilishning didaktik tizimi nima?",
+    "options": [
+      "O‘quv maqsadlari, mazmuni, metodlari va vositalarini birlashtirgan tizim",
+      "O‘quv maqsadlari, mazmuni, test topshiriqlari tizimi",
+      "O‘quv maqsadlari, mazmuni, yozma ishlar tizimi",
+      "O‘quv maqsadlari, mazmuni, sport mashg‘ulotlari tizimi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizimning asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va malakalarni tizimli shakllantirish",
+      "O‘quvchilarda bilim, ko‘nikma test topshiriqlarini yechish",
+      "O‘quvchilarda bilim, ko‘nikma yozma ish topshirish",
+      "O‘quvchilarda bilim, ko‘nikma sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizim qanday printsiplarga asoslanadi?",
+    "options": [
+      "Faoliyatga yo‘naltirish, bosqichma-bosqichlik, individual va integratsiyalashgan yondashuv",
+      "Faoliyatga yo‘naltirish, bosqichma-bosqichlik, maktab soatlarini oshirish",
+      "Faoliyatga yo‘naltirish, bosqichma-bosqichlik, sport mashg‘ulotlariga",
+      "Faoliyatga yo‘naltirish, bosqichma-bosqichlik, test topshiriqlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizim o‘quvchiga qanday foyda beradi?",
+    "options": [
+      "Mustaqil fikrlash, amaliy ko‘nikmalar va ijodiy qobiliyatlarni rivojlantirish",
+      "Mustaqil fikrlash, amaliy test topshiriqlarini yechish",
+      "Mustaqil fikrlash, amaliy nazariy bilim yodlash",
+      "Mustaqil fikrlash, amaliy sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizimga misol sifatida qaysi element kiradi?",
+    "options": [
+      "Maqsad, vazifa, metod, vosita, natija",
+      "Maqsad, vazifa, metod, test topshiriqlari",
+      "Maqsad, vazifa, metod, yozma ishlar",
+      "Maqsad, vazifa, metod, sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizimni to‘g‘ri qo‘llash natijasida nimaga erishiladi?",
+    "options": [
+      "Ta’lim jarayoni tizimli, samarali va uzviy bo‘ladi",
+      "Ta’lim jarayoni tizimli, test natijalari oshadi",
+      "Ta’lim jarayoni tizimli, baholar yaxshilanadi",
+      "Ta’lim jarayoni tizimli, dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizim qaysi bosqichlarda qo‘llaniladi?",
+    "options": [
+      "Maktabgacha, umumiy o‘rta, professional va oliy ta’lim tizimlarida",
+      "Maktabgacha, umumiy o‘rta, maktabda",
+      "Maktabgacha, umumiy o‘rta, oliy ta’limda",
+      "Maktabgacha, umumiy o‘rta, sport mashg‘ulotlarida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizim ta’limning qaysi jihatini rivojlantiradi?",
+    "options": [
+      "Nazariy va amaliy bilimlarni uyg‘unlashgan holda",
+      "Nazariy va amaliy test natijalarini",
+      "Nazariy va amaliy sport mashg‘ulotlarini",
+      "Nazariy va amaliy yozma ishlarni"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tizimni to‘g‘ri qo‘llash natijasida nimaga erishiladi?",
+    "options": [
+      "Ta’limning har bosqichi samarali va uzviy bo‘ladi",
+      "Ta’limning har bosqichi baholar oshadi",
+      "Ta’limning har bosqichi test natijalari yaxshilanadi",
+      "Ta’limning har bosqichi dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "1-9 sinflarda texnologiya fanining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda nazariy va amaliy texnologik bilimlarni shakllantirish",
+      "O‘quvchilarda nazariy va sport mashg‘ulotlarini o‘tkazish",
+      "O‘quvchilarda nazariy va test natijalarini oshirish",
+      "O‘quvchilarda nazariy va yozma ishlarni bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "1-9 sinflarda texnologiya fanining mazmuni nimaga qaratilgan?",
+    "options": [
+      "Amaliy ko‘nikmalar, loyihalashtirish va mehnat ko‘nikmalarini rivojlantirish",
+      "Amaliy ko‘nikmalar, loyihalashtirish nazariy bilimni yodlash",
+      "Amaliy ko‘nikmalar, loyihalashtirish test topshiriqlarini yechish",
+      "Amaliy ko‘nikmalar, loyihalashtirish sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "10-11 sinflarda texnologiya ta’limining vazifasi nima?",
+    "options": [
+      "O‘quvchilarni kasbiy tayyorgarlikka yo‘naltirish",
+      "O‘quvchilarni kasbiy tayyorgarlikka test natijalarini oshirish",
+      "O‘quvchilarni kasbiy tayyorgarlikka nazariy bilimni oshirish",
+      "O‘quvchilarni kasbiy tayyorgarlikka sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Kasbiy tayyorgarlik 10-11 sinflarda nimani rivojlantiradi?",
+    "options": [
+      "Amaliy ko‘nikmalar, kasbga yo‘naltirish va loyihalashtirish qobiliyatini",
+      "Amaliy ko‘nikmalar, kasbga nazariy bilimlarni",
+      "Amaliy ko‘nikmalar, kasbga test natijalarini",
+      "Amaliy ko‘nikmalar, kasbga yozma ishlarni"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "1-9 sinflarda texnologiya fani o‘quvchilarni nima bilan tanishtiradi?",
+    "options": [
+      "Turli texnologik jarayonlar, materiallar va amaliy ishlar bilan",
+      "Turli texnologik jarayonlar, test topshiriqlari bilan",
+      "Turli texnologik jarayonlar, nazariy bilimlar bilan",
+      "Turli texnologik jarayonlar, sport mashg‘ulotlari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "10-11 sinflarda kasbiy tayyorgarlik o‘quvchilarga nima beradi?",
+    "options": [
+      "Kelajakdagi kasb va amaliy faoliyatga tayyorgarlik",
+      "Kelajakdagi kasb va test topshiriqlarini yechish",
+      "Kelajakdagi kasb va yozma ishlarni bajarish",
+      "Kelajakdagi kasb va sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "1-9 sinflarda texnologiya fani mazmuni qanday tarkibiy qismlardan iborat?",
+    "options": [
+      "Nazariy bilim, amaliy mashg‘ulotlar, loyiha ishlari, mehnat ko‘nikmalari",
+      "Nazariy bilim, amaliy test topshiriqlari",
+      "Nazariy bilim, amaliy yozma ishlar",
+      "Nazariy bilim, amaliy sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Kasbiy tayyorgarlik jarayoni qaysi metodlarga tayanadi?",
+    "options": [
+      "Amaliy mashg‘ulotlar, loyihalashtirish, tajriba va eksperiment",
+      "Amaliy mashg‘ulotlar, loyihalashtirish, test topshiriqlari",
+      "Amaliy mashg‘ulotlar, loyihalashtirish, nazariy ma’ruzalar",
+      "Amaliy mashg‘ulotlar, loyihalashtirish, sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "1-9 sinflarda texnologiya fanining amaliy ko‘nikmalarga e’tibori nima uchun muhim?",
+    "options": [
+      "O‘quvchilarning mustaqil ishlash va ijodiy fikrlash qobiliyatini rivojlantirish uchun",
+      "O‘quvchilarning mustaqil ishlash test natijalarini oshirish uchun",
+      "O‘quvchilarning mustaqil ishlash baholarni oshirish uchun",
+      "O‘quvchilarning mustaqil ishlash sport mashg‘ulotlarini oshirish uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "10-11 sinflarda kasbiy tayyorgarlik natijasida o‘quvchi nimaga erishadi?",
+    "options": [
+      "Kasbiy va texnologik faoliyatni bajarishga tayyor bo‘ladi",
+      "Kasbiy va texnologik test natijalarini oshiradi",
+      "Kasbiy va texnologik baholar yaxshilanadi",
+      "Kasbiy va texnologik yozma ishlarni bajaradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi texnologiyasini o‘qitishning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda an’anaviy va zamonaviy hunarmandchilik ko‘nikmalarini shakllantirish",
+      "O‘quvchilarda an’anaviy va nazariy bilim berish",
+      "O‘quvchilarda an’anaviy va test topshiriqlarini yechish",
+      "O‘quvchilarda an’anaviy va sport mashg‘ulotlarini o‘tkazish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bo‘limni o‘qitish metodikasining asosiy vazifasi nima?",
+    "options": [
+      "Hunarmandchilik texnologiyasini amaliy va nazariy jihatdan o‘rgatish",
+      "Hunarmandchilik texnologiyasini amaliy test natijalarini oshirish",
+      "Hunarmandchilik texnologiyasini amaliy yozma ishlarni bajarish",
+      "Hunarmandchilik texnologiyasini amaliy sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi bo‘limida o‘qitish qanday metodlarga asoslanadi?",
+    "options": [
+      "Amaliy mashg‘ulotlar, demonstratsiya, loyiha ishlari, eksperiment",
+      "Amaliy mashg‘ulotlar, demonstratsiya, test topshiriqlari",
+      "Amaliy mashg‘ulotlar, demonstratsiya, nazariy ma’ruzalar",
+      "Amaliy mashg‘ulotlar, demonstratsiya, sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi texnologiyasini o‘qitishda o‘quvchiga nimani rivojlantirish muhim?",
+    "options": [
+      "Amaliy ko‘nikma, ijodiy fikrlash va mustaqil ishlash qobiliyati",
+      "Amaliy ko‘nikma, ijodiy test topshiriqlarini yechish",
+      "Amaliy ko‘nikma, ijodiy nazariy bilim yodlash",
+      "Amaliy ko‘nikma, ijodiy sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bo‘limni o‘qitishda o‘quvchilar bilan ishlash qanday tarzda amalga oshiriladi?",
+    "options": [
+      "Guruh va individual mashg‘ulotlar orqali amaliy ishlarni bajarish",
+      "Guruh va individual test topshiriqlarini yechish orqali",
+      "Guruh va individual nazariy ma’ruzalar orqali",
+      "Guruh va individual sport mashg‘ulotlari orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi texnologiyasini o‘qitish mazmuni nimani o‘z ichiga oladi?",
+    "options": [
+      "An’anaviy usullar, zamonaviy texnologiyalar va materiallar bilan ishlash",
+      "An’anaviy usullar, zamonaviy test topshiriqlarini yechish",
+      "An’anaviy usullar, zamonaviy yozma ishlarni bajarish",
+      "An’anaviy usullar, zamonaviy sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bo‘lim metodikasi orqali o‘quvchiga nimani o‘rgatiladi?",
+    "options": [
+      "Hunarmandchilik mahsulotlarini loyihalash va amalga oshirish ko‘nikmalari",
+      "Hunarmandchilik mahsulotlarini loyihalash nazariy bilimlarni",
+      "Hunarmandchilik mahsulotlarini loyihalash test natijalarini oshirish",
+      "Hunarmandchilik mahsulotlarini loyihalash sport mashg‘ulotlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi bo‘limida amaliy mashg‘ulotlar qanday olib boriladi?",
+    "options": [
+      "O‘quvchilarni material bilan ishlash, loyihalashtirish va ijodiy faoliyatga jalb qilish",
+      "O‘quvchilarni material bilan test topshiriqlari bilan",
+      "O‘quvchilarni material bilan nazariy ma’ruzalar bilan",
+      "O‘quvchilarni material bilan sport mashg‘ulotlari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bo‘limni o‘qitish metodikasi o‘quvchiga qanday foyda beradi?",
+    "options": [
+      "Amaliy ishlarni mustaqil bajarish va hunarmandchilik qobiliyatini rivojlantirish",
+      "Amaliy ishlarni mustaqil test natijalarini oshirish",
+      "Amaliy ishlarni mustaqil baholarni oshirish",
+      "Amaliy ishlarni mustaqil nazariy bilimlarni yodlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalq hunarmandchiligi texnologiyasini o‘qitish natijasida o‘quvchi nimaga erishadi?",
+    "options": [
+      "Amaliy va nazariy hunarmandchilik bilimlariga ega bo‘ladi va kasbiy tayyorgarlikka tayyorlanadi",
+      "Amaliy va nazariy test natijalarini oshiradi",
+      "Amaliy va nazariy baholar yaxshilanadi",
+      "Amaliy va nazariy sport mashg‘ulotlarini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida o‘qitish shakllarining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va malakalarni samarali shakllantirish",
+      "O‘quvchilarda bilim, ko‘nikma test natijalarini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma baholarni oshirish",
+      "O‘quvchilarda bilim, ko‘nikma sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida o‘qitish shakllari qaysi asosiy toifalarga bo‘linadi?",
+    "options": [
+      "Individual, guruh, sinf va kollektiv shakllar",
+      "Individual, guruh, sinf test topshiriqlari",
+      "Individual, guruh, sinf yozma ishlar",
+      "Individual, guruh, sinf sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Individual o‘qitish shakli nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchining mustaqil ishlash va individual rivojlanishini ta’minlash",
+      "O‘quvchining mustaqil ishlash test topshiriqlarini yechish",
+      "O‘quvchining mustaqil ishlash guruh ishlari",
+      "O‘quvchining mustaqil ishlash sport mashg‘ulotlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Guruh shaklidagi o‘qitish qanday foyda beradi?",
+    "options": [
+      "Hamkorlikda ishlash, tajriba almashish va kommunikatsiya ko‘nikmalarini rivojlantirish",
+      "Hamkorlikda ishlash, tajriba individual ishlash",
+      "Hamkorlikda ishlash, tajriba test topshiriqlarini yechish",
+      "Hamkorlikda ishlash, tajriba yozma ishlarni bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinf shaklidagi o‘qitish qanday tashkil etiladi?",
+    "options": [
+      "Barcha o‘quvchilar bir vaqtda dars jarayonida ishtirok etadi",
+      "Barcha o‘quvchilar bir individual mashg‘ulotlar bilan",
+      "Barcha o‘quvchilar bir test topshiriqlari bilan",
+      "Barcha o‘quvchilar bir sport mashg‘ulotlari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Kollektiv shaklning afzalligi nimada?",
+    "options": [
+      "Katta guruhlar bilan samarali loyiha va amaliy ishlarni bajarish imkonini beradi",
+      "Katta guruhlar bilan individual ishlashni rivojlantiradi",
+      "Katta guruhlar bilan test topshiriqlarini oshiradi",
+      "Katta guruhlar bilan sport mashg‘ulotlariga e’tibor beradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘qitish shakllari qanday tamoyillarga asoslanadi?",
+    "options": [
+      "Faoliyatga yo‘naltirish, integratsiyalashgan va bosqichma-bosqichlik",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan test topshiriqlariga",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan nazariy bilimga",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan sport mashg‘ulotlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida o‘qitish shakllari o‘quvchilarga nimani rivojlantiradi?",
+    "options": [
+      "Amaliy ko‘nikmalar, mustaqil ishlash va ijodiy fikrlash qobiliyatini",
+      "Amaliy ko‘nikmalar, mustaqil test topshiriqlarini yechish",
+      "Amaliy ko‘nikmalar, mustaqil nazariy bilimlarni yodlash",
+      "Amaliy ko‘nikmalar, mustaqil sport mashg‘ulotlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Individual va guruh shakllari nimani uyg‘unlashtiradi?",
+    "options": [
+      "Shaxsiy rivojlanish va hamkorlik ko‘nikmalarini",
+      "Shaxsiy rivojlanish va test natijalarini",
+      "Shaxsiy rivojlanish va baholarni",
+      "Shaxsiy rivojlanish va sport mashg‘ulotlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida o‘qitish shakllari to‘g‘ri qo‘llansa, nimaga erishiladi?",
+    "options": [
+      "Ta’lim jarayoni samarali, tizimli va o‘quvchilar uchun foydali bo‘ladi",
+      "Ta’lim jarayoni samarali, test natijalari oshadi",
+      "Ta’lim jarayoni samarali, baholar yaxshilanadi",
+      "Ta’lim jarayoni samarali, dam olish ko‘payadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida o‘qitish metodlarining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va malakalarni samarali shakllantirish",
+      "O‘quvchilarda bilim, ko‘nikma sport mashg‘ulotlarini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma test natijalarini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma baholarni oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qaysi metod o‘quvchining faol ishtirokiga asoslanadi?",
+    "options": [
+      "Faoliyatga yo‘naltirilgan metod",
+      "Ma’ruza metodi",
+      "Demonstratsiya metodi",
+      "Test metodi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ma’ruza metodi nimaga xizmat qiladi?",
+    "options": [
+      "Nazariy bilimlarni tizimli yetkazish",
+      "Nazariy bilimlarni tizimli amaliy ko‘nikmalarni rivojlantirish",
+      "Nazariy bilimlarni tizimli test natijalarini oshirish",
+      "Nazariy bilimlarni tizimli sport mashg‘ulotlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Demonstratsiya metodi nimani o‘z ichiga oladi?",
+    "options": [
+      "Amaliy ishlarni ko‘rsatish va tushuntirish",
+      "Amaliy ishlarni ko‘rsatish nazariy bilim yodlash",
+      "Amaliy ishlarni ko‘rsatish test topshiriqlarini yechish",
+      "Amaliy ishlarni ko‘rsatish sport mashg‘ulotlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Eksperimental metod nima uchun qo‘llanadi?",
+    "options": [
+      "O‘quv jarayonida nazariy bilimlarni amaliyotda sinab ko‘rish",
+      "O‘quv jarayonida nazariy test natijalarini oshirish",
+      "O‘quv jarayonida nazariy baholarni oshirish",
+      "O‘quv jarayonida nazariy sport mashg‘ulotlarini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Loyihalashtirish metodi o‘quvchilarga nimani beradi?",
+    "options": [
+      "Mustaqil ijodiy faoliyat va amaliy ko‘nikmalar",
+      "Mustaqil ijodiy faoliyat test topshiriqlarini yechish",
+      "Mustaqil ijodiy faoliyat nazariy bilim yodlash",
+      "Mustaqil ijodiy faoliyat sport mashg‘ulotlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Taqqoslash metodi qanday afzallik beradi?",
+    "options": [
+      "O‘quvchilarni tahlil qilish va fikrlash qobiliyatini rivojlantiradi",
+      "O‘quvchilarni tahlil qilish test natijalarini oshiradi",
+      "O‘quvchilarni tahlil qilish baholarni oshiradi",
+      "O‘quvchilarni tahlil qilish sport mashg‘ulotlarini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida amaliy metodlar nimaga qaratilgan?",
+    "options": [
+      "O‘quvchilarning amaliy ko‘nikmalarini rivojlantirish",
+      "O‘quvchilarning amaliy ko‘nikmalarini test natijalarini oshirish",
+      "O‘quvchilarning amaliy ko‘nikmalarini nazariy bilimni oshirish",
+      "O‘quvchilarning amaliy ko‘nikmalarini baholarni oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘qitish metodlari qanday tamoyillarga asoslanadi?",
+    "options": [
+      "Faoliyatga yo‘naltirish, integratsiyalashgan va bosqichma-bosqichlik",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan test topshiriqlariga",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan nazariy bilimga",
+      "Faoliyatga yo‘naltirish, integratsiyalashgan sport mashg‘ulotlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "To‘g‘ri o‘qitish metodlarini tanlash nimaga yordam beradi?",
+    "options": [
+      "Ta’lim jarayonini samarali, tizimli va foydali qilish",
+      "Ta’lim jarayonini samarali, test natijalarini oshirish",
+      "Ta’lim jarayonini samarali, baholarni oshirish",
+      "Ta’lim jarayonini samarali, sport mashg‘ulotlariga e’tibor berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ta’lim vositalari nima uchun ishlatiladi?",
+    "options": [
+      "O‘quv jarayonini samarali darsni qisqartirish uchun",
+      "O‘quv jarayonini samarali va tushunarli qilish uchun",
+      "O‘qituvchini osonlashtirish uchun",
+      "Bahoni oshirish uchun"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quyidagi vositalardan qaysi biri vizual ta’lim vositasi hisoblanadi?",
+    "options": [
+      "Kompyuter",
+      "Diagramma",
+      "Ishchi asboblar",
+      "Video"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya fani darsida ta’lim vositalaridan foydalanishning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga ko‘proq nazariy ma’lumot berish",
+      "O‘quvchilarning faol ishtirokini ta’minlash",
+      "Darsni tezroq yakunlash",
+      "O‘qituvchining ishini osonlashtirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy mashg‘ulotda o‘quvchilar qanday tarzda ta’lim vositalaridan foydalanadilar?",
+    "options": [
+      "Mustaqil amaliy ish kuzatish orqali",
+      "Mustaqil amaliy ish bajarish orqali",
+      "O‘qituvchi ko‘rsatishini tomosha qilib",
+      "Mustaqil amaliy ish eslatma yozish orqali"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quyidagilardan qaysi biri audiovizual vosita hisoblanadi?",
+    "options": [
+      "Rasm",
+      "Slayd va video",
+      "Plakat",
+      "Model"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ta’lim vositalarini tanlashda qaysi mezon muhim hisoblanadi?",
+    "options": [
+      "Narxi",
+      "Dars maqsadiga mosligi",
+      "Rang-barangligi",
+      "Yangi texnologiya bo‘lishi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Loyiha asosida o‘rganish metodida ta’lim vositalari qanday ishlatiladi?",
+    "options": [
+      "Nazariy ma’lumot berishda",
+      "Kichik loyihalar yoki modellash ishlarini bajarishda",
+      "O‘quvchilarni kuzatishda",
+      "Kichik loyihalar yoki baholashda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Vizual va amaliy vositalarni birgalikda ishlatishning afzalligi nima?",
+    "options": [
+      "Dars tezroq o‘tadi",
+      "Murakkab tushunchalar aniqroq tushuntiriladi",
+      "O‘quvchilar charchamaydi",
+      "Murakkab tushunchalar aniqroq baho oshadi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Interaktiv dars usulida ta’lim vositalari qanday qo‘llanadi?",
+    "options": [
+      "O‘quvchilar passiv bo‘ladi",
+      "Multimedia va elektron resurslar orqali o‘quvchilar faol qatnashadi",
+      "Multimedia va elektron rasm va diagrammalar ishlatiladi",
+      "O‘qituvchi barcha ishni bajaradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ta’lim vositalaridan foydalanishning asosiy afzalligi nima?",
+    "options": [
+      "Darsni qisqartirish",
+      "O‘quvchilarning qiziqishi va motivatsiyasini oshirish",
+      "Bahoni oshirish",
+      "O‘qituvchining ishlashini kamaytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsning asosiy maqsadi nima?",
+    "options": [
+      "Nazariy bilimlarni eslab qolish",
+      "O‘quvchilarda mustaqil amaliy ko‘nikmalarni shakllantirish",
+      "Dars jadvalini to‘ldirish",
+      "Uy vazifasini bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsni rejalashtirishda birinchi bosqich nima?",
+    "options": [
+      "Natijani baholash",
+      "Material va asbob-uskunalarni aniqlash",
+      "Guruhlarni shakllantirish",
+      "O‘quvchilarni rag‘batlantirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy dars davomida xavfsizlik qoidalari nima uchun muhim?",
+    "options": [
+      "Ishni tezroq tugatish uchun",
+      "O‘quvchilarni jarohatlardan himoya qilish uchun",
+      "Nazariy bilimlarni mustahkamlash uchun",
+      "Test savollarini yaratish uchun"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsni o'tkazishda qaysi metod ishlatilishi mumkin?",
+    "options": [
+      "Guruh ishlari",
+      "Guruh ishlari nazariy ma’ruza",
+      "Uyga vazifa berish",
+      "Raqamli testlar faqat"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darsni yakunlash bosqichida nima qilinadi?",
+    "options": [
+      "O‘quvchilar ishni bajaradi",
+      "Tayyor mahsulotni tahlil qilinadi",
+      "Darsni boshlash",
+      "Nazariy ma’ruza o‘tiladi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quyidagilardan qaysi biri loyiha asosida o‘qitish metodikasi hisoblanadi?",
+    "options": [
+      "Amaliy ishni muammo yechimi shaklida bajarish",
+      "O‘quvchilarga savol berish",
+      "Amaliy ishni muammo o‘qituvchi ko‘rsatma beradi",
+      "Testni yozma bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darsda individual ishning afzalligi nima?",
+    "options": [
+      "Guruh ishini tezroq tugatadi",
+      "Har bir o‘quvchi shaxsiy ko‘nikmalarini rivojlantiradi",
+      "O‘qituvchi ishlamasdan qoladi",
+      "Uy vazifasi kamayadi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsni tashkil qilishda qanday usullar ishlatiladi?",
+    "options": [
+      "Demonstratsiya, guruh va individual ish",
+      "Demonstratsiya, guruh va nazariy ma’ruza",
+      "Demonstratsiya, guruh va test yozish",
+      "O‘qituvchi va o‘quvchi suhbatlashishi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darsda xulosa chiqarish nima uchun muhim?",
+    "options": [
+      "O‘quvchilar uyga ketishi uchun",
+      "Ish jarayonini tahlil qilish va bilimni mustahkamlash",
+      "O‘quvchilarga test berish uchun",
+      "Materialni kamaytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsning muvaffaqiyati nimaga bog‘liq?",
+    "options": [
+      "Nazariy bilim va o‘qituvchining tajribasiga",
+      "Nazariy bilim va amaliy ishni uyg‘unlashtirishga",
+      "Uy vazifasi miqdoriga",
+      "Nazariy bilim va test natijasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchining o‘quv yiliga tayyorgarligi nimani o‘z ichiga oladi?",
+    "options": [
+      "O‘quv yilidagi barcha dars jadvalini tuzishni",
+      "O‘quv yilidagi barcha dars va materiallarni rejalashtirish",
+      "O‘quv yilidagi barcha test tayyorlashni",
+      "O‘quv yilidagi barcha uy vazifalarini belgilashni"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rejalashtiruvchi hujjatlarning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga dars berish vaqtini kamaytirish",
+      "Dars jarayonini tizimli va samarali qilish",
+      "Uy vazifasini kamaytirish",
+      "Test natijasini oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi darsga tayyorlanayotganda nimalarga e’tibor beradi?",
+    "options": [
+      "Material, vosita, uskunalar o‘quvchilar kiyimiga",
+      "Material, vosita, uskunalar va xavfsizlik qoidalariga",
+      "Material, vosita, uskunalar test savollariga",
+      "Material, vosita, uskunalar vaqtni tejashga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘quv yili rejalashtirishida qanday hujjat muhim hisoblanadi?",
+    "options": [
+      "O‘quv dasturi",
+      "O‘quv dasturi dars jadvali",
+      "O‘quv dasturi imtihon jadvali",
+      "O‘quv dasturi o‘quvchilar ro‘yxati"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dars rejasi nimaga xizmat qiladi?",
+    "options": [
+      "Dars maqsadi, vazifalari o‘qituvchining ishini osonlashtirish",
+      "Dars maqsadi, vazifalari va metodlarini aniqlash",
+      "Dars maqsadi, vazifalari o‘quvchilarni baholash",
+      "Dars maqsadi, vazifalari materiallarni tarqatish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi darsga tayyorlanmasdan dars o‘tsa nima bo‘lishi mumkin?",
+    "options": [
+      "Dars samarali bo‘ladi",
+      "O‘quvchilarning bilim va ko‘nikmalari yetarli bo‘lmaydi",
+      "O‘quvchilarning bilim va test natijalari oshadi",
+      "Dars jadvali qisqaradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya fanida rejalashtirishni qanday bosqichlarda amalga oshirish mumkin?",
+    "options": [
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va yillik",
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va dars boshida"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Rejalashtiruvchi hujjatlar o‘qituvchiga nima beradi?",
+    "options": [
+      "Dars jarayonini tartibga solish va samaradorligini oshirish",
+      "Dars jarayonini tartibga testlarni yaratish imkonini",
+      "Dars jarayonini tartibga o‘quvchilarni ro‘yxatga olish imkonini",
+      "Dars jarayonini tartibga uy vazifasini tayyorlash imkonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘qituvchining o‘quv yiliga tayyorgarligi nimani o‘z ichiga oladi?",
+    "options": [
+      "O‘quv yilidagi barcha dars jadvalini tuzishni",
+      "O‘quv yilidagi barcha dars va materiallarni rejalashtirish",
+      "O‘quv yilidagi barcha test tayyorlashni",
+      "O‘quv yilidagi barcha uy vazifalarini belgilashni"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya faniga oid rejalashtiruvchi hujjatlar qaysi hujjatlarni o‘z ichiga oladi?",
+    "options": [
+      "Dars rejalari, o‘quv dasturi, metodik ko‘rsatmalar",
+      "Dars rejalari, o‘quv dars jadvali",
+      "O‘quvchilar ro‘yxati",
+      "Dars rejalari, o‘quv test savollari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Darsga tayyorgarlik jarayonida o‘qituvchi nima qiladi?",
+    "options": [
+      "O‘quvchilarga uy vazifasini beradi",
+      "Material va uskunalarni tayyorlaydi",
+      "Material va uskunalarni nazariy ma’ruza o‘qiydi",
+      "Testni onlayn yuboradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rejalashtiruvchi hujjatlarning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga dars berish vaqtini kamaytirish",
+      "Dars jarayonini tizimli va samarali qilish",
+      "Uy vazifasini kamaytirish",
+      "Test natijasini oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi darsga tayyorlanayotganda nimalarga e’tibor beradi?",
+    "options": [
+      "Material, vosita, uskunalar o‘quvchilar kiyimiga",
+      "Material, vosita, uskunalar va xavfsizlik qoidalariga",
+      "Material, vosita, uskunalar test savollariga",
+      "Material, vosita, uskunalar vaqtni tejashga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘quv yili rejalashtirishida qanday hujjat muhim hisoblanadi?",
+    "options": [
+      "O‘quv dasturi",
+      "O‘quv dasturi dars jadvali",
+      "O‘quv dasturi imtihon jadvali",
+      "O‘quv dasturi o‘quvchilar ro‘yxati"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dars rejasi nimaga xizmat qiladi?",
+    "options": [
+      "Dars maqsadi, vazifalari o‘qituvchining ishini osonlashtirish",
+      "Dars maqsadi, vazifalari va metodlarini aniqlash",
+      "Dars maqsadi, vazifalari o‘quvchilarni baholash",
+      "Dars maqsadi, vazifalari materiallarni tarqatish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi darsga tayyorlanmasdan dars o‘tsa nima bo‘lishi mumkin?",
+    "options": [
+      "Dars samarali bo‘ladi",
+      "O‘quvchilarning bilim va ko‘nikmalari yetarli bo‘lmaydi",
+      "O‘quvchilarning bilim va test natijalari oshadi",
+      "Dars jadvali qisqaradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya fanida rejalashtirishni qanday bosqichlarda amalga oshirish mumkin?",
+    "options": [
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va yillik",
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va dars boshida"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Rejalashtiruvchi hujjatlar o‘qituvchiga nima beradi?",
+    "options": [
+      "Dars jarayonini tartibga solish va samaradorligini oshirish",
+      "Dars jarayonini tartibga testlarni yaratish imkonini",
+      "Dars jarayonini tartibga o‘quvchilarni ro‘yxatga olish imkonini",
+      "Dars jarayonini tartibga uy vazifasini tayyorlash imkonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Materialshunoslik bo‘limining asosiy maqsadi nima?",
+    "options": [
+      "Materiallarning tuzilishi, xossalari materiallar nomlarini yodlash",
+      "Materiallarning tuzilishi, xossalari va qo‘llanilishini o‘rganish",
+      "Materiallarning tuzilishi, xossalari texnologik jarayonlarni ko‘rish",
+      "Materiallarning tuzilishi, xossalari laboratoriya ishlarini bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Materialshunoslik darslarini o‘qitishda qaysi metod samarali hisoblanadi?",
+    "options": [
+      "Amaliy va laboratoriya nazariy ma’ruza",
+      "Amaliy va laboratoriya ishlari",
+      "Amaliy va laboratoriya test savollari",
+      "Amaliy va laboratoriya uy vazifasi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Materiallar xossalarini o‘rgatishda o‘qituvchi nima qilishi kerak?",
+    "options": [
+      "Materiallarni namoyish etadi va sinovdan o‘tkazadi",
+      "Materiallarni namoyish etadi rasmiy ma’lumot beradi",
+      "Materiallarni namoyish etadi video ko‘rsatadi",
+      "Materiallarni namoyish etadi test yozadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Laboratoriya ishlari nima uchun muhim?",
+    "options": [
+      "Materiallarni yodlash uchun",
+      "Nazariy bilimlarni amaliyot bilan mustahkamlash",
+      "Nazariy bilimlarni amaliyot dars vaqtini to‘ldirish",
+      "Nazariy bilimlarni amaliyot uy vazifasini kamaytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Materialshunoslik bo‘limida amaliy ishni qanday tashkil qilish mumkin?",
+    "options": [
+      "Guruh ishlari, individual sinov va demonstratsiya",
+      "Guruh ishlari, individual guruh ishlari",
+      "Guruh ishlari, individual video tomosha",
+      "Guruh ishlari, individual nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quvchilarga materiallarni tanishtirishda qaysi usul samarali?",
+    "options": [
+      "Amaliy ko‘rsatmalar va tajriba qilish",
+      "Amaliy ko‘rsatmalar va matn o‘qish",
+      "Amaliy ko‘rsatmalar va test savollari berish",
+      "Amaliy ko‘rsatmalar va dars jadvali taqdim etish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Materialshunoslik bo‘limini o‘qitishda asosiy e’tibor qayerga qaratiladi?",
+    "options": [
+      "Materiallarning xossalari va o‘quvchilar soniga",
+      "Materiallarning xossalari va qo‘llanishiga",
+      "Materiallarning xossalari va laboratoriya asboblariga",
+      "Materiallarning xossalari va uy vazifasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy dars davomida o‘qituvchi qanday vazifani bajaradi?",
+    "options": [
+      "O‘quvchilarning ishini nazorat qiladi va yordam beradi",
+      "O‘quvchilarning ishini nazorat test beradi",
+      "O‘quvchilarning ishini nazorat material tarqatadi",
+      "O‘quvchilarning ishini nazorat dars jadvali o‘qiydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Materialshunoslik bo‘limini samarali o‘qitish tamoyillaridan biri nima?",
+    "options": [
+      "Nazariy bilim va nazariy bilimga e’tibor berish",
+      "Nazariy bilim va amaliy ishni uyg‘unlashtirish",
+      "Nazariy bilim va laboratoriyada ishlash",
+      "Nazariy bilim va video ko‘rsatish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘quvchilarni materialshunoslik bo‘limida rag‘batlantirish uchun nima qilinadi?",
+    "options": [
+      "Amaliy ishlarda muvaffaqiyatga uy vazifasini kamaytirish",
+      "Amaliy ishlarda muvaffaqiyatga erishganini baholash",
+      "Amaliy ishlarda muvaffaqiyatga testlarni qiyinlashtirish",
+      "Amaliy ishlarda muvaffaqiyatga nazariy ma’ruzalarni ko‘paytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM ta’lim dasturining asosiy maqsadi nima?",
+    "options": [
+      "Fan, texnologiya, muhandislik nazariy bilim berish",
+      "Fan, texnologiya, muhandislik va matematika sohalarini integratsiyalash orqali amaliy ko‘nikmalarni shakllantirish",
+      "Fan, texnologiya, muhandislik testlarni yechishni o‘rgatish",
+      "Fan, texnologiya, muhandislik loyiha ishlari berish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM darsida texnologiya fanini o‘qitishda qaysi metod samarali hisoblanadi?",
+    "options": [
+      "Amaliy ishlar va nazariy ma’ruza",
+      "Amaliy ishlar va loyiha asosida o‘qitish",
+      "Amaliy ishlar va test savollari",
+      "Amaliy ishlar va uy vazifasi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM metodikasi o‘quvchilarni qanday rag‘batlantiradi?",
+    "options": [
+      "Muammoni hal qilish o‘quvchilarni baholash orqali",
+      "Muammoni hal qilish va ijodiy yondashuv orqali",
+      "Muammoni hal qilish laboratoriyada ishlash orqali",
+      "Muammoni hal qilish nazariy bilimga e’tibor berish orqali"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darslarida STEM asosida loyiha ishlari nimaga xizmat qiladi?",
+    "options": [
+      "Dars vaqtini to‘ldirish",
+      "O‘quvchilarda muammoni hal qilish ko‘nikmasini rivojlantirish",
+      "O‘quvchilarda muammoni hal uy vazifasini kamaytirish",
+      "O‘quvchilarda muammoni hal test natijasini oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM darslarida amaliy ishlar qanday tashkil qilinadi?",
+    "options": [
+      "Guruh va individual ishlarni birlashtirib",
+      "Guruh va individual guruh ishlari",
+      "Guruh va individual nazariy ma’ruza",
+      "Guruh va individual video ko‘rsatmalar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quvchilarga STEM darsini o‘rgatishda qaysi tamoyil muhim?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalarni uyg‘unlashtirish",
+      "Nazariy bilim va test topshiriqlarini berish",
+      "Nazariy bilim va laboratoriya ishlari",
+      "Nazariy bilim va uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "STEM darsida o‘qituvchi asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchilarga muammolarni hal dars jadvalini kuzatish",
+      "O‘quvchilarga muammolarni hal qilishda yo‘naltirish va yordam berish",
+      "O‘quvchilarga muammolarni hal testlar tayyorlash",
+      "O‘quvchilarga muammolarni hal material tarqatish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM metodikasi texnologiya darslarida o‘quvchilarni qanday rivojlantiradi?",
+    "options": [
+      "Muammoni hal qilish, matematik qobiliyatlarini oshiradi",
+      "Muammoni hal qilish, kreativlik va texnologik ko‘nikmalarini rivojlantiradi",
+      "Muammoni hal qilish, nazariy bilim beradi",
+      "Muammoni hal qilish, laboratoriya ishlariga e’tibor beradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM darslarida loyiha asosida ishlash qanday afzallik beradi?",
+    "options": [
+      "O‘quvchilar tezroq uyga ketadi",
+      "Muammolarni amalda yechish va real hayotga qo‘llash",
+      "Muammolarni amalda yechish nazariy bilimni oshiradi",
+      "Muammolarni amalda yechish testlarni yechish imkonini beradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "STEM metodikasida texnologiya darslarining samaradorligi nimaga bog‘liq?",
+    "options": [
+      "Nazariy bilim, amaliy o‘qituvchining tajribasiga",
+      "Nazariy bilim, amaliy ish va loyiha faoliyatini uyg‘unlashtirishga",
+      "Nazariy bilim, amaliy laboratoriya asboblariga",
+      "Nazariy bilim, amaliy test natijasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida tarbiya berishning asosiy maqsadi nima?",
+    "options": [
+      "Nazariy bilim berish",
+      "O‘quvchilarda mehnatsevarlik, intizom va mas’uliyatni shakllantirish",
+      "Test natijasini oshirish",
+      "Uy vazifasini bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Dars jarayonida tarbiya qanday shakllantiriladi?",
+    "options": [
+      "Og‘zaki so‘z bilan",
+      "Amaliy ishlar va muammolarni yechish orqali",
+      "Testlar orqali",
+      "Uy vazifasini topshirish orqali"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida o‘quvchilarni mehnatsevarlik ruhida tarbiyalash uchun nima qilinadi?",
+    "options": [
+      "Amaliy ishlarni mustaqil bajarishga rag‘batlantirish",
+      "Amaliy ishlarni mustaqil nazariy ma’ruza o‘qish",
+      "Amaliy ishlarni mustaqil uy vazifasini kamaytirish",
+      "Amaliy ishlarni mustaqil testlar berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyaviy jarayonda o‘quvchilarni intizomga o‘rgatishda qanday usul ishlatiladi?",
+    "options": [
+      "Amalga oshirilgan ishni jazo berish",
+      "Amalga oshirilgan ishni kuzatish va rag‘batlantirish",
+      "Amalga oshirilgan ishni nazariy bilim berish",
+      "Amalga oshirilgan ishni dars jadvali tuzish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida mas’uliyatni shakllantirish qanday amalga oshadi?",
+    "options": [
+      "O‘quvchilarga topshiriqlarni mustaqil bajarish imkonini berish",
+      "O‘quvchilarga topshiriqlarni mustaqil test natijasini oshirish",
+      "O‘quvchilarga topshiriqlarni mustaqil laboratoriya asboblarini tarqatish",
+      "O‘quvchilarga topshiriqlarni mustaqil dars jadvali bilan ishlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiya berishda o‘qituvchi asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchilarga amaliy ish test natijalarini kuzatish",
+      "O‘quvchilarga amaliy ish va xulq-atvor orqali namuna bo‘lish",
+      "O‘quvchilarga amaliy ish material tarqatish",
+      "O‘quvchilarga amaliy ish uy vazifasini topshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida tarbiyaviy ishning samaradorligi nimaga bog‘liq?",
+    "options": [
+      "Amaliy ishlar va o‘qituvchining tajribasiga",
+      "Amaliy ishlar va tarbiyaviy maqsadlarni uyg‘unlashtirishga",
+      "Amaliy ishlar va laboratoriya asboblariga",
+      "Amaliy ishlar va test natijasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Tarbiyaviy jarayonda o‘quvchilarni guruh ishlari qanday rivojlantiradi?",
+    "options": [
+      "Hamkorlik, mas’uliyat va bilimni oshiradi",
+      "Hamkorlik, mas’uliyat va ijtimoiy ko‘nikmalarni shakllantiradi",
+      "Hamkorlik, mas’uliyat va uy vazifasini kamaytiradi",
+      "Hamkorlik, mas’uliyat va laboratoriya ishini bajarishga yordam beradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida tarbiyaviy ishlar orqali o‘quvchilarda qanday xislatlar rivojlantiriladi?",
+    "options": [
+      "Mehnatsevarlik, mas’uliyat, intizom bilim va ko‘nikmalar",
+      "Mehnatsevarlik, mas’uliyat, intizom va ijodkorlik",
+      "Mehnatsevarlik, mas’uliyat, intizom test savollarini yechish",
+      "Mehnatsevarlik, mas’uliyat, intizom dars vaqtini tejash"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida tarbiya berishda qaysi tamoyil muhim?",
+    "options": [
+      "Nazariy bilimni oshirish",
+      "Amaliy ish va tarbiyaviy maqsadlarni uyg‘unlashtirish",
+      "Amaliy ish va test topshiriqlarini berish",
+      "Amaliy ish va uy vazifasini kamaytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida baholashning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarning bilim va o‘quvchilarni solishtirish",
+      "O‘quvchilarning bilim va ko‘nikmalarini aniqlash va rivojlantirish",
+      "O‘quvchilarning bilim va test natijasini oshirish",
+      "O‘quvchilarning bilim va uy vazifasini berish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Baholash mezonlari nima uchun muhim?",
+    "options": [
+      "O‘quvchilarning bilim, ko‘nikma o‘qituvchiga darsni oson qilish uchun",
+      "O‘quvchilarning bilim, ko‘nikma va tarbiyaviy natijalarini baholash uchun",
+      "O‘quvchilarning bilim, ko‘nikma uy vazifasini kamaytirish uchun",
+      "O‘quvchilarning bilim, ko‘nikma dars vaqtini to‘ldirish uchun"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘zlashtirishlarni hisobga olish turlari qaysilar?",
+    "options": [
+      "Yozma, og‘zaki, amaliy yozma test",
+      "Yozma, og‘zaki, amaliy va loyiha asosida",
+      "Yozma, og‘zaki, amaliy laboratoriya ishida",
+      "Yozma, og‘zaki, amaliy guruh ishida"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy ishlar bahosi qanday aniqlanadi?",
+    "options": [
+      "Ishning to‘g‘riligi, sifat tez tugatish asosida",
+      "Ishning to‘g‘riligi, sifat va mustaqilligi asosida",
+      "Ishning to‘g‘riligi, sifat guruhda ishlash orqali",
+      "Ishning to‘g‘riligi, sifat nazariy bilimga qarab"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida baholash mezonlari nimaga e’tibor beradi?",
+    "options": [
+      "Bilim, ko‘nikma, amaliy uy vazifasini bajarish",
+      "Bilim, ko‘nikma, amaliy ish va xulq-atvor",
+      "Bilim, ko‘nikma, amaliy test natijasiga",
+      "Bilim, ko‘nikma, amaliy laboratoriya asboblariga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Baholash turlari orasida qaysi biri o‘quvchilarning mustaqil ishlashini ko‘rsatadi?",
+    "options": [
+      "Og‘zaki baholash",
+      "Amaliy ish va loyiha asosida baholash",
+      "Test topshiriqlari",
+      "Amaliy ish va nazariy ma’ruza"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘zlashtirishlarni hisobga olishda loyiha ishlari qanday xizmat qiladi?",
+    "options": [
+      "O‘quvchilarning kreativlik va dars vaqtini to‘ldirish",
+      "O‘quvchilarning kreativlik va muammoni hal qilish ko‘nikmalarini baholash",
+      "O‘quvchilarning kreativlik va laboratoriya ishini baholash",
+      "O‘quvchilarning kreativlik va nazariy bilimni oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida baholashning samarali usuli nima?",
+    "options": [
+      "Test va imtihonlar",
+      "Nazariy, amaliy va loyihaviy ishlarni uyg‘unlashtirish",
+      "Og‘zaki so‘rovlar",
+      "Uy vazifasi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Baholash mezonlarini aniqlash kimning vazifasi?",
+    "options": [
+      "O‘qituvchi va ta’lim o‘quvchining",
+      "O‘qituvchi va ta’lim dasturi asosida",
+      "O‘qituvchi va ta’lim sinf rahbari",
+      "O‘qituvchi va ta’lim laboratoriya xodimi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya darsida o‘zlashtirishlarni hisobga olishning asosiy maqsadi nima?",
+    "options": [
+      "Bilim, ko‘nikma va o‘quvchini rag‘batlantirish",
+      "Bilim, ko‘nikma va xulq-atvorni to‘liq baholash va rivojlantirish",
+      "Bilim, ko‘nikma va test natijasini oshirish",
+      "Bilim, ko‘nikma va uy vazifasini kamaytirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sinfdan tashqari ishlarning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarning bilim, ko‘nikma dars vaqtini to‘ldirish",
+      "O‘quvchilarning bilim, ko‘nikma va ijtimoiy ko‘nikmalarini rivojlantirish",
+      "O‘quvchilarning bilim, ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarning bilim, ko‘nikma test natijasini oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Maktabdan tashqari ishlar nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchilarni amaliy faoliyat o‘quvchilarni sinovdan o‘tkazish",
+      "O‘quvchilarni amaliy faoliyat va jamoaviy ishlar bilan tanishtirish",
+      "O‘quvchilarni amaliy faoliyat dars jadvalini to‘ldirish",
+      "O‘quvchilarni amaliy faoliyat laboratoriya ishlari"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sinfdan tashqari ishlarni tashkil qilishda qaysi usullar ishlatiladi?",
+    "options": [
+      "Guruh ishlari, ekskursiya, loyiha va musobaqa",
+      "Guruh ishlari, ekskursiya, nazariy ma’ruza",
+      "Guruh ishlari, ekskursiya, test yozish",
+      "Guruh ishlari, ekskursiya, uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinfdan tashqari ishlar davomida o‘quvchilar qanday ko‘nikmalarni rivojlantiradi?",
+    "options": [
+      "Hamkorlik, mas’uliyat, kreativlik nazariy bilim",
+      "Hamkorlik, mas’uliyat, kreativlik va muammoni hal qilish",
+      "Hamkorlik, mas’uliyat, kreativlik laboratoriya ishlarini bajarish",
+      "Hamkorlik, mas’uliyat, kreativlik test natijasini oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi sinfdan tashqari ishlarni qanday nazorat qiladi?",
+    "options": [
+      "Amalga oshirilgan faoliyatni test topshiriqlari orqali",
+      "Amalga oshirilgan faoliyatni kuzatib, baholash orqali",
+      "Amalga oshirilgan faoliyatni uy vazifasini topshirish orqali",
+      "Amalga oshirilgan faoliyatni nazariy ma’ruza bilan"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Maktabdan tashqari ishlar qaysi shakllarda bo‘lishi mumkin?",
+    "options": [
+      "Ekskursiya, muzeyga tashrif, loyihalar, sport va ijodiy tadbirlar",
+      "Ekskursiya, muzeyga tashrif, laboratoriya ishlari",
+      "Ekskursiya, muzeyga tashrif, test va imtihonlar",
+      "Ekskursiya, muzeyga tashrif, uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinfdan tashqari ishlarni rejalashtirishda asosiy omil nima?",
+    "options": [
+      "O‘quvchilarning qiziqishi va vaqtni tejash",
+      "O‘quvchilarning qiziqishi va dars maqsadi",
+      "O‘quvchilarning qiziqishi va test natijasi",
+      "O‘quvchilarning qiziqishi va sinf hajmi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘quvchilarni rag‘batlantirishning samarali usuli nima?",
+    "options": [
+      "Faol ishtirokni e’tirof jazo berish",
+      "Faol ishtirokni e’tirof etish va mukofotlash",
+      "Faol ishtirokni e’tirof uy vazifasini kamaytirish",
+      "Faol ishtirokni e’tirof laboratoriya ishini bajarishga majburlash"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sinfdan tashqari ishlar qanday afzallik beradi?",
+    "options": [
+      "Bilim, ko‘nikma, ijtimoiy bilim oshiradi",
+      "Bilim, ko‘nikma, ijtimoiy va shaxsiy rivojlanishni birlashtiradi",
+      "Bilim, ko‘nikma, ijtimoiy uy vazifasini kamaytiradi",
+      "Bilim, ko‘nikma, ijtimoiy dars vaqtini to‘ldiradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "O‘qituvchi maktabdan tashqari ishlarni tashkil qilayotganda nima qilishi kerak?",
+    "options": [
+      "Faoliyatni rejalashtirish, xavfsizlikni ta’minlash va o‘quvchilarni rag‘batlantirish",
+      "Faoliyatni rejalashtirish, xavfsizlikni material tarqatish",
+      "Faoliyatni rejalashtirish, xavfsizlikni test topshiriqlarini berish",
+      "Faoliyatni rejalashtirish, xavfsizlikni nazariy ma’ruza o‘qish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya faniga oid metodik ishlarning asosiy maqsadi nima?",
+    "options": [
+      "O‘qituvchiga darslarni samarali dars vaqtini to‘ldirish",
+      "O‘qituvchiga darslarni samarali rejalashtirish va o‘quv jarayonini yaxshilash",
+      "O‘qituvchiga darslarni samarali test savollarini yaratish",
+      "O‘qituvchiga darslarni samarali uy vazifasini tayyorlash"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Metodik ishlar nimalarni o‘z ichiga oladi?",
+    "options": [
+      "Dars rejasi, uslubiy qo‘llanmalar, laboratoriya ishlarining tavsifi",
+      "Dars rejasi, uslubiy test topshiriqlari",
+      "Dars rejasi, uslubiy o‘quvchilar ro‘yxati",
+      "Dars rejasi, uslubiy sinf jadvali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Metodik ishlarning samarali bo‘lishi nimaga bog‘liq?",
+    "options": [
+      "Nazariy va amaliy o‘qituvchining tajribasiga",
+      "Nazariy va amaliy faoliyatni uyg‘unlashtirishga",
+      "Nazariy va amaliy laboratoriya asboblariga",
+      "Nazariy va amaliy test natijasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Metodik ishni tayyorlashda asosiy e’tibor qayerga qaratiladi?",
+    "options": [
+      "Dars maqsadi, vazifalari, o‘quvchilar soniga",
+      "Dars maqsadi, vazifalari, ishlatiladigan metod va usullarga",
+      "Dars maqsadi, vazifalari, uy vazifasini kamaytirishga",
+      "Dars maqsadi, vazifalari, dars jadvalini to‘ldirishga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Texnologiya faniga oid metodik ishlar o‘qituvchiga nima beradi?",
+    "options": [
+      "Dars jarayonini tartibga solish va samaradorligini oshirish",
+      "Dars jarayonini tartibga test savollarini yaratish imkonini",
+      "Dars jarayonini tartibga laboratoriya ishini tayyorlash imkonini",
+      "Dars jarayonini tartibga uy vazifasini tayyorlash imkonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Metodik ishlar qaysi shakllarda bo‘lishi mumkin?",
+    "options": [
+      "Dars rejasi, qo‘llanma, loyihaviy ish tavsifi, laboratoriya ishlarining tavsifi",
+      "Dars rejasi, qo‘llanma, test topshiriqlari",
+      "Dars rejasi, qo‘llanma, nazariy ma’ruza",
+      "Dars rejasi, qo‘llanma, uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Metodik ishlarni tayyorlash kimning vazifasiga kiradi?",
+    "options": [
+      "O‘qituvchining o‘quvchining",
+      "O‘qituvchining",
+      "Sinf rahbarining",
+      "Laboratoriya xodimining"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Metodik ishni baholashda nima asosiy mezon hisoblanadi?",
+    "options": [
+      "Dars maqsadiga erishish test natijasi",
+      "Dars maqsadiga erishish va amaliy ishlarni uyg‘unlashtirish",
+      "Dars maqsadiga erishish o‘quvchilar soni",
+      "Dars maqsadiga erishish uy vazifasi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Metodik ishlar texnologiya darsini qanday yaxshilaydi?",
+    "options": [
+      "Dars jarayonini tizimli, uy vazifasini kamaytiradi",
+      "Dars jarayonini tizimli, samarali va qiziqarli qiladi",
+      "Dars jarayonini tizimli, test natijasini oshiradi",
+      "Dars jarayonini tizimli, laboratoriya ishlarini ko‘paytiradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Metodik ishlarni muntazam tayyorlashning afzalligi nima?",
+    "options": [
+      "O‘qituvchining ishini yengillashtiradi dars vaqtini to‘ldiradi",
+      "O‘qituvchining ishini yengillashtiradi va o‘quv jarayonini sifatli qiladi",
+      "O‘qituvchining ishini yengillashtiradi uy vazifasini kamaytiradi",
+      "O‘qituvchining ishini yengillashtiradi test natijasini oshiradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchining mustaqil ish dars vaqtini to‘ldirish",
+      "O‘quvchining mustaqil ish ko‘nikmasini va nazariy bilimini mustahkamlash",
+      "O‘quvchining mustaqil ish test topshiriqlarini bajarish",
+      "O‘quvchining mustaqil ish laboratoriya ishlarini bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishini tayyorlashda birinchi bosqich nima?",
+    "options": [
+      "Xulosa yozish",
+      "Mavzuni tanlash va reja tuzish",
+      "Mavzuni tanlash va test tayyorlash",
+      "Mavzuni tanlash va amaliy ish bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishining strukturasiga nima kiradi?",
+    "options": [
+      "Kirish, nazariy qism, kirish va xulosa",
+      "Kirish, nazariy qism, amaliy qism, xulosa va adabiyotlar ro‘yxati",
+      "Kirish, nazariy qism, nazariy qism",
+      "Kirish, nazariy qism, amaliy qism"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishini yozishda asosiy talab nima?",
+    "options": [
+      "Nazariy va amaliy tez yozish",
+      "Nazariy va amaliy qismni uyg‘unlashtirish",
+      "Nazariy va amaliy rasm va diagrammalar",
+      "Nazariy va amaliy test natijasi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishida amaliy qism nima uchun kerak?",
+    "options": [
+      "Nazariy bilimlarni amalda dars vaqtini to‘ldirish",
+      "Nazariy bilimlarni amalda qo‘llash va ko‘nikmalarni shakllantirish",
+      "Nazariy bilimlarni amalda test savollarini yechish",
+      "Nazariy bilimlarni amalda rasm chizish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishini tayyorlashda qaysi uslub muhim hisoblanadi?",
+    "options": [
+      "Nazariy va amaliy materiallarni tizimli bayon qilish",
+      "Nazariy va amaliy matn nusxalash",
+      "Nazariy va amaliy rasm chizish",
+      "Nazariy va amaliy test yozish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Kurs ishini yozishda plagiatdan saqlanish nima uchun muhim?",
+    "options": [
+      "Ishning ilmiy va o‘qituvchini qoniqtirish uchun",
+      "Ishning ilmiy va axloqiy jihatdan to‘g‘ri bo‘lishi uchun",
+      "Ishning ilmiy va vaqtni tejash uchun",
+      "Ishning ilmiy va test natijasini oshirish uchun"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kurs ishini tayyorlashda o‘quvchiga qo‘yiladigan umumiy talab nima?",
+    "options": [
+      "Mustaqil izlanish, nazariy va amaliy bilimni uyg‘unlashtirish",
+      "Mustaqil izlanish, nazariy o‘qituvchining ko‘rsatmasiga amal qilish",
+      "Mustaqil izlanish, nazariy testlarni to‘ldirish",
+      "Mustaqil izlanish, nazariy laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pedagogik amaliyotning asosiy maqsadi nima?",
+    "options": [
+      "Kelajakdagi o‘qituvchi sifatida test natijalarini oshirish",
+      "Kelajakdagi o‘qituvchi sifatida amaliy ko‘nikmalarni rivojlantirish",
+      "Kelajakdagi o‘qituvchi sifatida dars jadvalini tuzish",
+      "Kelajakdagi o‘qituvchi sifatida nazariy bilimni oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyot davomida o‘quvchining roli nima?",
+    "options": [
+      "Faol ishtirokchi va kuzatuvchi bo‘lish",
+      "Faol ishtirokchi va amaliy ishlarni bajaruvchi",
+      "Faol ishtirokchi va test yozuvchi",
+      "Faol ishtirokchi va uy vazifasini bajaruvchi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyotga qo‘yiladigan metodik talablar qaysilar?",
+    "options": [
+      "Darsni rejalashtirish, nazorat va baholashni bilish",
+      "Darsni rejalashtirish, nazorat laboratoriya ishlarini bilish",
+      "Darsni rejalashtirish, nazorat nazariy ma’ruza o‘qish",
+      "Darsni rejalashtirish, nazorat uy vazifasini tayyorlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliyot davomida o‘qituvchi nima qilishi kerak?",
+    "options": [
+      "O‘quvchilarga darsni samarali testlar tayyorlash",
+      "O‘quvchilarga darsni samarali o‘tkazish bo‘yicha ko‘rsatmalar berish",
+      "O‘quvchilarga darsni samarali rasm va diagrammalar tayyorlash",
+      "O‘quvchilarga darsni samarali uy vazifasini belgilash"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyotda dars rejasining roli nima?",
+    "options": [
+      "Darsni tizimli va dars vaqtini belgilash",
+      "Darsni tizimli va samarali o‘tkazishga yordam berish",
+      "Darsni tizimli va test natijasini oshirish",
+      "Darsni tizimli va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyotda o‘quvchilarni rag‘batlantirish qanday amalga oshadi?",
+    "options": [
+      "Faoliyatini kuzatish va muvaffaqiyatini e’tirof etish orqali",
+      "Faoliyatini kuzatish va jazo berish orqali",
+      "Faoliyatini kuzatish va test natijasi orqali",
+      "Faoliyatini kuzatish va uy vazifasi orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliyot davomida nazorat qilish nima uchun muhim?",
+    "options": [
+      "Dars jarayonini sifatli vaqtni tejash uchun",
+      "Dars jarayonini sifatli va tartibli o‘tkazish",
+      "Dars jarayonini sifatli test natijasini oshirish uchun",
+      "Dars jarayonini sifatli laboratoriya ishlarini bajarish uchun"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyotga qo‘yiladigan talablar qaysi tamoyilga asoslanadi?",
+    "options": [
+      "Nazariy bilim va amaliy ishlarni uyg‘unlashtirish",
+      "Nazariy bilim va uy vazifasini kamaytirish",
+      "Nazariy bilim va testlarni oshirish",
+      "Nazariy bilim va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pedagogik amaliyot davomida amaliy darslarni tashkil qilish nimaga bog‘liq?",
+    "options": [
+      "O‘quvchilarning faol ishtirokiga o‘qituvchining vaqtiga",
+      "O‘quvchilarning faol ishtirokiga va dars maqsadiga",
+      "O‘quvchilarning faol ishtirokiga laboratoriya asboblariga",
+      "O‘quvchilarning faol ishtirokiga uy vazifasiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pedagogik amaliyotning yakuniy natijasi nima bo‘lishi kerak?",
+    "options": [
+      "O‘qituvchi sifatida bilim, test natijasi oshadi",
+      "O‘qituvchi sifatida bilim, ko‘nikma va metodik tayyorgarlik shakllanadi",
+      "O‘qituvchi sifatida bilim, laboratoriya ishlarini bajarish o‘rganiladi",
+      "O‘qituvchi sifatida bilim, uy vazifasini bajarish kamayadi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Amaliy darsning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda amaliy ko‘nikmalarni shakllantirish",
+      "O‘quvchilarda amaliy ko‘nikmalarni nazariy bilim berish",
+      "O‘quvchilarda amaliy ko‘nikmalarni test savollarini yechish",
+      "O‘quvchilarda amaliy ko‘nikmalarni uy vazifasini belgilash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslarni tashkil qilishda qaysi omil muhim?",
+    "options": [
+      "Materiallar va asbob-uskunalarni tayyorlash",
+      "Materiallar va asbob-uskunalarni dars jadvalini tuzish",
+      "Materiallar va asbob-uskunalarni o‘quvchilar sonini hisoblash",
+      "Materiallar va asbob-uskunalarni test natijasini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslar qanday o‘tkaziladi?",
+    "options": [
+      "Guruh va individual ishlarni uyg‘unlashtirib",
+      "Guruh va individual nazariy ma’ruza tarzida",
+      "Guruh va individual test topshiriqlarini yechish orqali",
+      "Guruh va individual uy vazifasini bajarish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Darsni amaliyotga tayyorlashda o‘qituvchi nima qiladi?",
+    "options": [
+      "Material va vositalarni tayyorlaydi",
+      "Material va vositalarni rasm chizadi",
+      "Material va vositalarni uy vazifasini beradi",
+      "Material va vositalarni test topshiriqlari yozadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslarning samaradorligi nimaga bog‘liq?",
+    "options": [
+      "O‘quvchilarni faol ishtirok etishiga",
+      "O‘quvchilarni faol ishtirok dars vaqtiga",
+      "O‘quvchilarni faol ishtirok test savollariga",
+      "O‘quvchilarni faol ishtirok uy vazifasiga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslarni rejalashtirish qaysi bosqichda amalga oshiriladi?",
+    "options": [
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va haftalik",
+      "Yillik, choraklik va yillik",
+      "Yillik, choraklik va dars boshida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darsda xavfsizlikni ta’minlash kimning vazifasi?",
+    "options": [
+      "O‘qituvchining",
+      "O‘qituvchining o‘quvchining",
+      "O‘qituvchining laboratoriya xodimining",
+      "O‘qituvchining sinf rahbarining"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslarni samarali o‘tkazishning tamoyili nima?",
+    "options": [
+      "Nazariy va amaliy bilimni uyg‘unlashtirish",
+      "Nazariy va amaliy test topshiriqlarini berish",
+      "Nazariy va amaliy uy vazifasini belgilash",
+      "Nazariy va amaliy laboratoriya ishlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darslarda o‘quvchilarning faoliyatini baholash qaysi mezon asosida bo‘ladi?",
+    "options": [
+      "Ishning to‘g‘riligi va sifatiga",
+      "Ishning to‘g‘riligi va tez bajarilishiga",
+      "Ishning to‘g‘riligi va guruhda ishlashga",
+      "Ishning to‘g‘riligi va nazariy bilimga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy darsning yakuniy natijasi nima bo‘lishi kerak?",
+    "options": [
+      "O‘quvchilar bilim va ko‘nikmalarini mustahkamlash",
+      "O‘quvchilar bilim va uy vazifasini kamaytirish",
+      "O‘quvchilar bilim va laboratoriya asboblarini ishlatish",
+      "O‘quvchilar bilim va test natijasini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi metodikasi fanining tarbiyadagi asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda mehnatsevarlik, mas’uliyat va ijodiy fikrlashni shakllantirish",
+      "O‘quvchilarda mehnatsevarlik, mas’uliyat nazariy bilim berish",
+      "O‘quvchilarda mehnatsevarlik, mas’uliyat test natijasini oshirish",
+      "O‘quvchilarda mehnatsevarlik, mas’uliyat uy vazifasini berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyadagi o‘rni nimada namoyon bo‘ladi?",
+    "options": [
+      "O‘quvchilarning xulq-atvori va ijtimoiy ko‘nikmalarida",
+      "O‘quvchilarning xulq-atvori va test natijasida",
+      "O‘quvchilarning xulq-atvori va laboratoriya ishlarida",
+      "O‘quvchilarning xulq-atvori va dars vaqtida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarida tarbiya berish usuli qanday bo‘lishi kerak?",
+    "options": [
+      "Amaliy ishlar va loyiha ishlari orqali",
+      "Amaliy ishlar va nazariy ma’ruza bilan",
+      "Amaliy ishlar va test savollari orqali",
+      "Amaliy ishlar va uy vazifasini kamaytirish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyaviy jarayon davomida o‘qituvchi nima qiladi?",
+    "options": [
+      "O‘quvchilarga namuna bo‘lib, ularni rag‘batlantiradi",
+      "O‘quvchilarga namuna bo‘lib, test topshiriqlarini beradi",
+      "O‘quvchilarga namuna bo‘lib, dars jadvalini tuzadi",
+      "O‘quvchilarga namuna bo‘lib, laboratoriya asboblarini tarqatadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limi fanining tarbiyadagi asosiy yo‘nalishi nima?",
+    "options": [
+      "Mehnatsevarlik, intizom, mas’uliyat va ijodkorlikni rivojlantirish",
+      "Mehnatsevarlik, intizom, mas’uliyat nazariy bilimni oshirish",
+      "Mehnatsevarlik, intizom, mas’uliyat test natijasini oshirish",
+      "Mehnatsevarlik, intizom, mas’uliyat uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyaviy jarayonda o‘quvchilarning faoliyati qaysi yo‘nalishda rivojlantiriladi?",
+    "options": [
+      "Mustaqil ish va guruh ishlari orqali",
+      "Mustaqil ish va dars jadvali orqali",
+      "Mustaqil ish va laboratoriya ishlarida",
+      "Mustaqil ish va test topshiriqlarini yechish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida tarbiya berishning samaradorligi nimaga bog‘liq?",
+    "options": [
+      "Amaliy va nazariy faoliyatni uyg‘unlashtirishga",
+      "Amaliy va nazariy uy vazifasini bajarishga",
+      "Amaliy va nazariy test natijasiga",
+      "Amaliy va nazariy o‘quvchilar soniga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyaviy jarayonda o‘quvchilarning rag‘batlantirilishi qanday amalga oshadi?",
+    "options": [
+      "Faoliyatini kuzatish va muvaffaqiyatini e’tirof etish orqali",
+      "Faoliyatini kuzatish va jazo berish orqali",
+      "Faoliyatini kuzatish va laboratoriya ishlariga majburlash orqali",
+      "Faoliyatini kuzatish va dars vaqtini qisqartirish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarida tarbiya berish tamoyili nima?",
+    "options": [
+      "Nazariy bilim va amaliy ishni uyg‘unlashtirish",
+      "Nazariy bilim va test topshiriqlarini berish",
+      "Nazariy bilim va uy vazifasini belgilash",
+      "Nazariy bilim va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tarbiyaviy jarayonning yakuniy natijasi nima bo‘lishi kerak?",
+    "options": [
+      "O‘quvchilarda shaxsiy va ijtimoiy rivojlanish, mehnatsevarlik va mas’uliyat shakllanishi",
+      "O‘quvchilarda shaxsiy va test natijasini oshirish",
+      "O‘quvchilarda shaxsiy va laboratoriya ishlarini bajarish",
+      "O‘quvchilarda shaxsiy va uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani maktab o‘quv rejadagi asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga amaliy ko‘nikma va nazariy bilimlarni uyg‘un shaklda berish",
+      "O‘quvchilarga amaliy ko‘nikma test topshiriqlarini yechishga o‘rgatish",
+      "O‘quvchilarga amaliy ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarga amaliy ko‘nikma laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani qaysi darajada maktab ta’lim tizimida o‘rganiladi?",
+    "options": [
+      "Boshlang‘ich, o‘rta va yuqori sinflarda",
+      "Boshlang‘ich, o‘rta va boshlang‘ich sinflarda",
+      "Boshlang‘ich, o‘rta va o‘rta sinflarda",
+      "Boshlang‘ich, o‘rta va yuqori sinflarda"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quv rejada texnologiya fanining o‘rni nimada namoyon bo‘ladi?",
+    "options": [
+      "Dars soatlari, o‘quv maqsadlari va mazmuni orqali",
+      "Dars soatlari, o‘quv test topshiriqlari orqali",
+      "Dars soatlari, o‘quv uy vazifasini belgilash orqali",
+      "Dars soatlari, o‘quv laboratoriya ishlarida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani maktab dasturida qaysi ko‘nikmalarni rivojlantiradi?",
+    "options": [
+      "Amaliy ishlar, muhandislik va ijodiy fikrlash",
+      "Amaliy ishlar, muhandislik nazariy bilim",
+      "Amaliy ishlar, muhandislik test yechish ko‘nikmasi",
+      "Amaliy ishlar, muhandislik uy vazifasini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Maktab o‘quv rejasi texnologiya fani uchun qanday rol o‘ynaydi?",
+    "options": [
+      "Darslarni tizimli va samarali o‘tkazish imkonini beradi",
+      "Darslarni tizimli va uy vazifasini belgilash imkonini beradi",
+      "Darslarni tizimli va testlarni oshirish imkonini beradi",
+      "Darslarni tizimli va laboratoriya ishlarini ko‘paytiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quv rejada texnologiya fanining soatlari nimaga bog‘liq?",
+    "options": [
+      "O‘quv dasturi va fan maqsadlariga",
+      "O‘quv dasturi va sinf hajmiga",
+      "O‘quv dasturi va o‘quvchilar soniga",
+      "O‘quv dasturi va laboratoriya mavjudligiga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani o‘quv rejada qanday tarzda integratsiyalanadi?",
+    "options": [
+      "Matematika, fizika va boshqa fanlar bilan bog‘lanadi",
+      "Matematika, fizika va nazariy bilim bilan",
+      "Matematika, fizika va test topshiriqlari bilan",
+      "Matematika, fizika va uy vazifasi bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Maktab o‘quv rejasi texnologiya fanida qaysi faoliyatni nazarda tutadi?",
+    "options": [
+      "Amaliy ish, loyiha ishlari va eksperimentlar",
+      "Amaliy ish, loyiha nazariy ma’ruza",
+      "Amaliy ish, loyiha test topshiriqlari",
+      "Amaliy ish, loyiha uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani o‘quv rejada o‘quvchilarga qanday imkoniyat yaratadi?",
+    "options": [
+      "Muammolarni amalda hal qilish va ijodiy ko‘nikmalarni rivojlantirish",
+      "Muammolarni amalda hal test topshiriqlarini yechish",
+      "Muammolarni amalda hal uy vazifasini kamaytirish",
+      "Muammolarni amalda hal laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanining maktab o‘quv rejadagi o‘rni umumiy ta’lim sifatiga qanday ta’sir qiladi?",
+    "options": [
+      "O‘quvchilarning nazariy va amaliy bilimlarini uyg‘un rivojlantirishga yordam beradi",
+      "O‘quvchilarning nazariy va test natijasini oshiradi",
+      "O‘quvchilarning nazariy va uy vazifasini kamaytiradi",
+      "O‘quvchilarning nazariy va laboratoriya ishlarini bajarishga yordam beradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘rta Osiyoda texnologiya ta’limining asosiy tarkibiy qismi nima?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalar",
+      "Nazariy bilim va test topshiriqlari",
+      "Nazariy bilim va uy vazifasi",
+      "Nazariy bilim va rasm va diagrammalar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining tarkibi nimaga yo‘naltiriladi?",
+    "options": [
+      "O‘quvchilarda amaliy va ijodiy fikrlash ko‘nikmalarini shakllantirish",
+      "O‘quvchilarda amaliy va nazariy bilimlarni yodlash",
+      "O‘quvchilarda amaliy va test natijasini oshirish",
+      "O‘quvchilarda amaliy va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘rta Osiyoda texnologiya ta’limi qaysi komponentlardan iborat?",
+    "options": [
+      "Nazariy ta’lim, amaliy mashg‘ulotlar, loyiha ishlari",
+      "Nazariy ta’lim, amaliy test topshiriqlari",
+      "Nazariy ta’lim, amaliy dars jadvali",
+      "Nazariy ta’lim, amaliy uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy mashg‘ulotlarning vazifasi nima?",
+    "options": [
+      "Nazariy bilimni amalda qo‘llash va ko‘nikmalarni shakllantirish",
+      "Nazariy bilimni amalda uy vazifasini kamaytirish",
+      "Nazariy bilimni amalda test natijasini oshirish",
+      "Nazariy bilimni amalda laboratoriya ishlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Loyiha ishlari texnologiya ta’limining qaysi qismini rivojlantiradi?",
+    "options": [
+      "Ijodiy fikrlash va muammolarni hal qilish ko‘nikmalarini",
+      "Ijodiy fikrlash va nazariy bilimni",
+      "Ijodiy fikrlash va test topshiriqlarini",
+      "Ijodiy fikrlash va uy vazifasini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining nazariy qismi nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchilarning asosiy bilimlarini mustahkamlash",
+      "O‘quvchilarning asosiy bilimlarini test topshiriqlarini yechish",
+      "O‘quvchilarning asosiy bilimlarini laboratoriya ishlarini bajarish",
+      "O‘quvchilarning asosiy bilimlarini uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘rta Osiyoda texnologiya ta’limi tarkibida o‘quvchilar qaysi faoliyat bilan shug‘ullanadi?",
+    "options": [
+      "Amaliy ishlar, tajribalar va loyihalar",
+      "Amaliy ishlar, tajribalar nazariy ma’ruza",
+      "Amaliy ishlar, tajribalar test topshiriqlari",
+      "Amaliy ishlar, tajribalar uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining tarkibi o‘quvchilarni nima bilan ta’minlaydi?",
+    "options": [
+      "Bilim, ko‘nikma va ijodiy fikrlash imkoniyatlari",
+      "Bilim, ko‘nikma va test natijalari",
+      "Bilim, ko‘nikma va laboratoriya ishlarini bajarish",
+      "Bilim, ko‘nikma va uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘rta Osiyoda texnologiya ta’limi tarkibi qaysi yo‘nalishda rivojlanadi?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalarni uyg‘unlashtirish",
+      "Nazariy bilim va test natijasiga qarab",
+      "Nazariy bilim va uy vazifasi bilan",
+      "Nazariy bilim va laboratoriya asboblari bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘rta Osiyoda texnologiya ta’limining tarkibiy qismi yakuniy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda mustaqil, ijodiy va amaliy ko‘nikmalarni shakllantirish",
+      "O‘quvchilarda mustaqil, ijodiy test natijasini oshirish",
+      "O‘quvchilarda mustaqil, ijodiy uy vazifasini kamaytirish",
+      "O‘quvchilarda mustaqil, ijodiy laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani darslarining maktabdagi asosiy o‘rni nima?",
+    "options": [
+      "O‘quvchilarda amaliy ko‘nikma va nazariy bilimlarni uyg‘un shaklda rivojlantirish",
+      "O‘quvchilarda amaliy ko‘nikma test topshiriqlarini yechish",
+      "O‘quvchilarda amaliy ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarda amaliy ko‘nikma rasm va diagrammalar chizish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarining maktabdagi o‘rni qaysi sohalarda namoyon bo‘ladi?",
+    "options": [
+      "Bilim, ko‘nikma, ijtimoiy va ijodiy rivojlanishda",
+      "Bilim, ko‘nikma, ijtimoiy test natijasida",
+      "Bilim, ko‘nikma, ijtimoiy laboratoriya ishlarida",
+      "Bilim, ko‘nikma, ijtimoiy uy vazifasida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Maktabdagi texnologiya darslari qaysi faoliyatni rivojlantiradi?",
+    "options": [
+      "Amaliy ishlar, loyiha ishlari va eksperimentlar",
+      "Amaliy ishlar, loyiha nazariy ma’ruza",
+      "Amaliy ishlar, loyiha test savollari",
+      "Amaliy ishlar, loyiha uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani darslarining maktabdagi o‘rni qanday aniqlanadi?",
+    "options": [
+      "Dars soatlari, mazmuni va maqsadlariga qarab",
+      "Dars soatlari, mazmuni o‘quvchilar soniga qarab",
+      "Dars soatlari, mazmuni uy vazifasini kamaytirish orqali",
+      "Dars soatlari, mazmuni laboratoriya mavjudligiga qarab"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslari o‘quvchilarga qanday ko‘nikmalar beradi?",
+    "options": [
+      "Amaliy, kreativ va muammolarni hal qilish ko‘nikmalarini",
+      "Amaliy, kreativ va test yechish ko‘nikmasi",
+      "Amaliy, kreativ va uy vazifasini bajarish",
+      "Amaliy, kreativ va nazariy bilim"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Maktabdagi texnologiya darslarining o‘rni o‘quvchilarning shaxsiy rivojlanishiga qanday ta’sir qiladi?",
+    "options": [
+      "Mustaqil fikrlash va ijodiy yondashuvni shakllantiradi",
+      "Mustaqil fikrlash va test natijasini oshiradi",
+      "Mustaqil fikrlash va uy vazifasini kamaytiradi",
+      "Mustaqil fikrlash va laboratoriya ishlarini bajarishga yordam beradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fani maktabdagi o‘rni qaysi tamoyilga asoslanadi?",
+    "options": [
+      "Nazariy bilim va amaliy ishlarni uyg‘unlashtirish",
+      "Nazariy bilim va test topshiriqlarini berish",
+      "Nazariy bilim va uy vazifasini belgilash",
+      "Nazariy bilim va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Darslar o‘quvchilarning qaysi ko‘nikmalarini rivojlantiradi?",
+    "options": [
+      "Mehnatsevarlik, mas’uliyat, hamkorlik va kreativlik",
+      "Mehnatsevarlik, mas’uliyat, hamkorlik test natijasini oshirish",
+      "Mehnatsevarlik, mas’uliyat, hamkorlik uy vazifasini kamaytirish",
+      "Mehnatsevarlik, mas’uliyat, hamkorlik laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarining maktabdagi o‘rni yakuniy maqsadiga qanday xizmat qiladi?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va shaxsiy rivojlanishni birlashtirish",
+      "O‘quvchilarda bilim, ko‘nikma test natijasini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarda bilim, ko‘nikma laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarining maktabdagi o‘rni o‘qituvchi uchun nima imkoniyat yaratadi?",
+    "options": [
+      "Darslarni samarali rejalashtirish va o‘quv jarayonini sifatli o‘tkazish",
+      "Darslarni samarali rejalashtirish test natijalarini oshirish",
+      "Darslarni samarali rejalashtirish uy vazifasini kamaytirish",
+      "Darslarni samarali rejalashtirish laboratoriya ishlarini ko‘paytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limining asosiy didaktik tamoyili nima?",
+    "options": [
+      "O‘quvchilarni faol va mustaqil faoliyatga yo‘naltirish",
+      "O‘quvchilarni faol va test natijasini oshirish",
+      "O‘quvchilarni faol va uy vazifasini kamaytirish",
+      "O‘quvchilarni faol va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarning ta’limdagi roli nimada?",
+    "options": [
+      "Dars jarayonini samarali, tizimli va qiziqarli qilish",
+      "Dars jarayonini samarali, uy vazifasini berish",
+      "Dars jarayonini samarali, test natijasini oshirish",
+      "Dars jarayonini samarali, rasm va diagrammalar tayyorlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillardan biri sifatida nimaga e’tibor qaratiladi?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalarni uyg‘unlashtirish",
+      "Nazariy bilim va laboratoriya ishlarini bajarish",
+      "Nazariy bilim va test natijasini oshirish",
+      "Nazariy bilim va uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limidagi didaktik tamoyillarning asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchilarning bilim, ko‘nikma va shaxsiy rivojlanishini ta’minlash",
+      "O‘quvchilarning bilim, ko‘nikma test topshiriqlarini berish",
+      "O‘quvchilarning bilim, ko‘nikma dars vaqtini to‘ldirish",
+      "O‘quvchilarning bilim, ko‘nikma uy vazifasini belgilash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarning o‘quv jarayonidagi ahamiyati nimada?",
+    "options": [
+      "O‘quvchilarning faol, mustaqil va ijodiy ishlashiga yordam beradi",
+      "O‘quvchilarning faol, mustaqil laboratoriya ishlarini bajarishga yordam beradi",
+      "O‘quvchilarning faol, mustaqil uy vazifasini kamaytiradi",
+      "O‘quvchilarning faol, mustaqil test natijasini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya ta’limida didaktik tamoyillar qanday qo‘llaniladi?",
+    "options": [
+      "Nazariy va amaliy mashg‘ulotlarni uyg‘unlashtirish orqali",
+      "Nazariy va amaliy test savollari orqali",
+      "Nazariy va amaliy uy vazifasi orqali",
+      "Nazariy va amaliy rasm chizish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar o‘quvchilarga nima beradi?",
+    "options": [
+      "Mustaqil fikrlash, amaliy ko‘nikmalar va ijodiy yondashuv",
+      "Mustaqil fikrlash, amaliy test natijasini oshirish",
+      "Mustaqil fikrlash, amaliy uy vazifasini kamaytirish",
+      "Mustaqil fikrlash, amaliy laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar dars jarayonini qanday yaxshilaydi?",
+    "options": [
+      "Tizimli, samarali va qiziqarli qiladi",
+      "Tizimli, samarali va uy vazifasini kamaytiradi",
+      "Tizimli, samarali va laboratoriya ishlarini ko‘paytiradi",
+      "Tizimli, samarali va test topshiriqlarini oshiradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillar texnologiya ta’limining qaysi jihatini rivojlantiradi?",
+    "options": [
+      "Nazariy bilim va amaliy ko‘nikmalarni birlashtiradi",
+      "Nazariy bilim va laboratoriya ishlarini bajarish",
+      "Nazariy bilim va test topshiriqlarini yechish",
+      "Nazariy bilim va uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Didaktik tamoyillarning yakuniy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va shaxsiy rivojlanishni birlashtirish",
+      "O‘quvchilarda bilim, ko‘nikma test natijasini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarda bilim, ko‘nikma laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitishning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda amaliy ko‘nikmalar va mehnatsevarlikni shakllantirish",
+      "O‘quvchilarda amaliy ko‘nikmalar nazariy bilim berish",
+      "O‘quvchilarda amaliy ko‘nikmalar test topshiriqlarini yechish",
+      "O‘quvchilarda amaliy ko‘nikmalar uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitish qaysi yo‘nalishga yo‘naltiriladi?",
+    "options": [
+      "Amaliy ishlar va faoliyat orqali",
+      "Amaliy ishlar va test natijasini oshirish",
+      "Amaliy ishlar va uy vazifasini belgilash",
+      "Amaliy ishlar va nazariy ma’ruza orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitishning o‘ziga xos xususiyati nimada?",
+    "options": [
+      "Nazariy bilimni amaliy ish bilan uyg‘unlashtirish",
+      "Nazariy bilimni amaliy laboratoriya ishlarini bajarish",
+      "Nazariy bilimni amaliy test topshiriqlarini yechish",
+      "Nazariy bilimni amaliy uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quv jarayonida unumli mehnat asosida o‘qitish qanday amalga oshadi?",
+    "options": [
+      "Guruh va individual ishlarni uyg‘unlashtirib",
+      "Guruh va individual nazariy ma’ruza orqali",
+      "Guruh va individual test topshiriqlarini yechish orqali",
+      "Guruh va individual uy vazifasi orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitishning tarbiyaviy ahamiyati nimada?",
+    "options": [
+      "Mehnatsevarlik, mas’uliyat va ijodiy fikrlashni shakllantirish",
+      "Mehnatsevarlik, mas’uliyat va test natijasini oshirish",
+      "Mehnatsevarlik, mas’uliyat va uy vazifasini kamaytirish",
+      "Mehnatsevarlik, mas’uliyat va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitishda o‘quvchilar qanday faoliyat bilan shug‘ullanadi?",
+    "options": [
+      "Amaliy mashg‘ulotlar, tajribalar va loyiha ishlari",
+      "Amaliy mashg‘ulotlar, tajribalar nazariy ma’ruza",
+      "Amaliy mashg‘ulotlar, tajribalar test topshiriqlari",
+      "Amaliy mashg‘ulotlar, tajribalar uy vazifasi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitish samaradorligi nimaga bog‘liq?",
+    "options": [
+      "Nazariy va amaliy faoliyatni uyg‘unlashtirishga",
+      "Nazariy va amaliy dars vaqtiga",
+      "Nazariy va amaliy test natijasiga",
+      "Nazariy va amaliy uy vazifasiga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘qituvchi unumli mehnat asosida o‘qitishda nima qiladi?",
+    "options": [
+      "Material va vositalarni tayyorlaydi, o‘quvchilarga namuna bo‘ladi",
+      "Material va vositalarni test topshiriqlari yozadi",
+      "Material va vositalarni uy vazifasini beradi",
+      "Material va vositalarni laboratoriya asboblarini taqsimlaydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitish o‘quvchilarni qanday rivojlantiradi?",
+    "options": [
+      "Mustaqil fikrlash, ijodiy yondashuv va amaliy ko‘nikmalar orqali",
+      "Mustaqil fikrlash, ijodiy test topshiriqlarini yechish orqali",
+      "Mustaqil fikrlash, ijodiy uy vazifasini bajarish orqali",
+      "Mustaqil fikrlash, ijodiy laboratoriya ishlarini bajarish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Unumli mehnat asosida o‘qitishning yakuniy natijasi nima bo‘lishi kerak?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va shaxsiy rivojlanish shakllanishi",
+      "O‘quvchilarda bilim, ko‘nikma test natijasini oshirish",
+      "O‘quvchilarda bilim, ko‘nikma uy vazifasini kamaytirish",
+      "O‘quvchilarda bilim, ko‘nikma laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida samarali o‘qitishning asosiy shakli nima?",
+    "options": [
+      "Amaliy mashg‘ulot va loyiha ishlari orqali",
+      "Amaliy mashg‘ulot va nazariy ma’ruza orqali",
+      "Amaliy mashg‘ulot va test topshiriqlari orqali",
+      "Amaliy mashg‘ulot va uy vazifasini berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quvchilarning faol ishtirokini ta’minlovchi o‘qitish shakli qaysi?",
+    "options": [
+      "Guruh va individual ishlash orqali",
+      "Guruh va individual laboratoriya ishlarini kuzatish",
+      "Guruh va individual test yechish",
+      "Guruh va individual uy vazifasini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida samaradorlikni oshiruvchi shakl nima?",
+    "options": [
+      "Nazariy va amaliy ishlarni uyg‘unlashtirish",
+      "Nazariy va amaliy uy vazifasini kamaytirish",
+      "Nazariy va amaliy test natijasini oshirish",
+      "Nazariy va amaliy rasm va diagrammalar chizish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘quv jarayonida loyiha ishlari nimaga xizmat qiladi?",
+    "options": [
+      "Ijodiy fikrlash va muammolarni hal qilish ko‘nikmalarini rivojlantirish",
+      "Ijodiy fikrlash va uy vazifasini kamaytirish",
+      "Ijodiy fikrlash va test natijasini oshirish",
+      "Ijodiy fikrlash va nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida samarali o‘qitish shakli o‘quvchilarga nima beradi?",
+    "options": [
+      "Mustaqil ishlash, amaliy ko‘nikma va ijodiy yondashuv",
+      "Mustaqil ishlash, amaliy test natijasini oshirish",
+      "Mustaqil ishlash, amaliy uy vazifasini kamaytirish",
+      "Mustaqil ishlash, amaliy laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy mashg‘ulotlarning o‘qitishdagi o‘rni nima?",
+    "options": [
+      "Nazariy bilimni amalda qo‘llash imkonini beradi",
+      "Nazariy bilimni amalda uy vazifasini kamaytiradi",
+      "Nazariy bilimni amalda test topshiriqlarini oshiradi",
+      "Nazariy bilimni amalda rasm chizish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida samarali o‘qitish shakllari qanday tanlanadi?",
+    "options": [
+      "O‘quvchilarning qobiliyatlari va dars maqsadiga qarab",
+      "O‘quvchilarning qobiliyatlari va laboratoriya mavjudligiga qarab",
+      "O‘quvchilarning qobiliyatlari va test natijasiga qarab",
+      "O‘quvchilarning qobiliyatlari va uy vazifasiga qarab"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida amaliy ishlar qaysi maqsadni amalga oshiradi?",
+    "options": [
+      "Ko‘nikmalarni mustahkamlash va bilimlarni amalda qo‘llash",
+      "Ko‘nikmalarni mustahkamlash va test natijasini oshirish",
+      "Ko‘nikmalarni mustahkamlash va uy vazifasini kamaytirish",
+      "Ko‘nikmalarni mustahkamlash va nazariy ma’ruza berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Samarali o‘qitish shakllari o‘quvchilarni qanday rivojlantiradi?",
+    "options": [
+      "Mustaqil fikrlash va ijodiy yondashuvni shakllantiradi",
+      "Mustaqil fikrlash va test natijasini oshiradi",
+      "Mustaqil fikrlash va uy vazifasini kamaytiradi",
+      "Mustaqil fikrlash va laboratoriya ishlarini bajaradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida samarali o‘qitish shakllarining yakuniy maqsadi nima?",
+    "options": [
+      "Bilim, ko‘nikma va shaxsiy rivojlanishni birlashtirish",
+      "Bilim, ko‘nikma va test natijasini oshirish",
+      "Bilim, ko‘nikma va uy vazifasini kamaytirish",
+      "Bilim, ko‘nikma va laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida ekskursiyaning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga amaliy tajriba va real hayot misollarini ko‘rsatish",
+      "O‘quvchilarga amaliy tajriba test topshiriqlarini yechish",
+      "O‘quvchilarga amaliy tajriba uy vazifasini belgilash",
+      "O‘quvchilarga amaliy tajriba nazariy ma’ruza berish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiya o‘quvchilarda nima rivojlantiradi?",
+    "options": [
+      "Amaliy ko‘nikma, kuzatish va tahlil qilish qobiliyatini",
+      "Amaliy ko‘nikma, kuzatish test natijasini oshirish",
+      "Amaliy ko‘nikma, kuzatish uy vazifasini kamaytirish",
+      "Amaliy ko‘nikma, kuzatish laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya darslarida ekskursiya qaysi faoliyatga xizmat qiladi?",
+    "options": [
+      "Nazariy bilimlarni amaliy hayot bilan bog‘lash",
+      "Nazariy bilimlarni amaliy uy vazifasini kamaytirish",
+      "Nazariy bilimlarni amaliy test topshiriqlarini oshirish",
+      "Nazariy bilimlarni amaliy rasm va diagrammalar chizish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiyaning o‘quvchilarga beradigan imkoniyati nima?",
+    "options": [
+      "Real muhitni kuzatish va tajriba orttirish",
+      "Real muhitni kuzatish test natijasini oshirish",
+      "Real muhitni kuzatish uy vazifasini kamaytirish",
+      "Real muhitni kuzatish laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiya samaradorligini oshirish uchun nimalarga e’tibor qaratiladi?",
+    "options": [
+      "Maqsad va vazifalarni aniqlash, o‘quvchilarning tayyorgarligi",
+      "Maqsad va vazifalarni test topshiriqlarini tayyorlash",
+      "Maqsad va vazifalarni uy vazifasini belgilash",
+      "Maqsad va vazifalarni laboratoriya asboblarini tarqatish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiyada o‘quvchilarning faol ishtiroki nimaga bog‘liq?",
+    "options": [
+      "Savol-javoblar va amaliy vazifalarni bajarishga",
+      "Savol-javoblar va amaliy test topshiriqlarini yechishga",
+      "Savol-javoblar va amaliy uy vazifasini bajarishga",
+      "Savol-javoblar va amaliy nazariy ma’ruza tinglashga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida ekskursiya qaysi metod bilan amalga oshiriladi?",
+    "options": [
+      "Nazorat, kuzatish va tahlil metodlari orqali",
+      "Nazorat, kuzatish va test topshiriqlari orqali",
+      "Nazorat, kuzatish va uy vazifasi orqali",
+      "Nazorat, kuzatish va rasm chizish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiya o‘quvchilarda qanday xulq-atvor va ko‘nikmalarni shakllantiradi?",
+    "options": [
+      "Kuzatish, tahlil qilish, mustaqil qaror qabul qilish",
+      "Kuzatish, tahlil qilish, test yechish ko‘nikmasini",
+      "Kuzatish, tahlil qilish, uy vazifasini bajarish ko‘nikmasini",
+      "Kuzatish, tahlil qilish, laboratoriya ishlarini bajarish ko‘nikmasini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiya o‘quvchilarga nima beradi?",
+    "options": [
+      "Nazariy bilimni amaliy hayot bilan bog‘lash imkoniyatini",
+      "Nazariy bilimni amaliy test natijasini oshirish imkoniyatini",
+      "Nazariy bilimni amaliy uy vazifasini kamaytirish imkoniyatini",
+      "Nazariy bilimni amaliy laboratoriya ishlarini ko‘paytirish imkoniyatini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ekskursiyaning yakuniy ahamiyati nima?",
+    "options": [
+      "O‘quvchilarda bilim, amaliy ko‘nikma va mustaqil fikrlashni rivojlantirish",
+      "O‘quvchilarda bilim, amaliy test natijasini oshirish",
+      "O‘quvchilarda bilim, amaliy uy vazifasini kamaytirish",
+      "O‘quvchilarda bilim, amaliy laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli o‘qitish metodining asosiy xususiyati nima?",
+    "options": [
+      "O‘quvchilarda mustaqil fikrlash va muammolarni hal qilish qobiliyatini shakllantirish",
+      "O‘quvchilarda mustaqil fikrlash nazariy bilim berish",
+      "O‘quvchilarda mustaqil fikrlash test topshiriqlarini yechish",
+      "O‘quvchilarda mustaqil fikrlash uy vazifasini kamaytirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli o‘qitish metodining farqi nimada?",
+    "options": [
+      "Masalalarni o‘quvchilar mustaqil hal qiladi, o‘qituvchi yo‘l-yo‘riq beradi",
+      "Masalalarni o‘quvchilar mustaqil o‘qituvchi nazariy ma’ruza beradi",
+      "Masalalarni o‘quvchilar mustaqil test savollari beriladi",
+      "Masalalarni o‘quvchilar mustaqil uy vazifasi bilan ishlanadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metod qaysi jarayonda qo‘llaniladi?",
+    "options": [
+      "O‘quvchilarni faol, mustaqil va ijodiy ishlashga yo‘naltirishda",
+      "O‘quvchilarni faol, mustaqil test topshiriqlarini yechish uchun",
+      "O‘quvchilarni faol, mustaqil uy vazifasini bajarish uchun",
+      "O‘quvchilarni faol, mustaqil laboratoriya ishlarini bajarish uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metodda o‘qituvchining vazifasi nima?",
+    "options": [
+      "Yo‘l-yo‘riq berish va kuzatish orqali",
+      "Yo‘l-yo‘riq berish va test topshiriqlarini tayyorlash",
+      "Yo‘l-yo‘riq berish va uy vazifasini berish",
+      "Yo‘l-yo‘riq berish va laboratoriya asboblarini tarqatish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metod o‘quvchilarda nima rivojlantiradi?",
+    "options": [
+      "Analitik fikrlash, muammoni hal qilish va ijodiy yondashuv",
+      "Analitik fikrlash, muammoni test yechish ko‘nikmasini",
+      "uy vazifasini bajarish ko‘nikmasini",
+      "laboratoriya ishlarini bajarish ko‘nikmasini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metod boshqa metodlardan qanday farq qiladi?",
+    "options": [
+      "O‘quvchi faol, o‘qituvchi yo‘l-yo‘riqchi rolida",
+      "o‘qituvchi ma’ruza beradi",
+      "test topshiriqlari yechiladi",
+      "uy vazifasi beriladi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metod qaysi faoliyat bilan bog‘lanadi?",
+    "options": [
+      "Muammoli vazifalar va real hayot misollarini yechish",
+      "nazariy bilim yodlash",
+      "test topshiriqlarini yechish",
+      "uy vazifasini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metodning samaradorligi nimaga bog‘liq?",
+    "options": [
+      "O‘quvchilarning mustaqil va ijodiy faoliyatiga",
+      "dars vaqtiga",
+      "test natijasiga",
+      "uy vazifasiga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli metodda darsning asosiy yo‘nalishi nima?",
+    "options": [
+      "Muammolarni aniqlash, tahlil qilish va hal qilish",
+      "test topshiriqlarini yechish",
+      "uy vazifasini bajarish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Muammoli o‘qitish metodining yakuniy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va mustaqil fikrlashni rivojlantirish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali o‘qitish metodining asosiy maqsadi nima?",
+    "options": [
+      "Nazariy bilimni amaliy ko‘rinishda ko‘rsatish va tushuntirish",
+      "test topshiriqlarini yechish",
+      "uy vazifasini berish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metod dars jarayonida nimani rivojlantiradi?",
+    "options": [
+      "Vizual tushuncha, diqqat va eslab qolish qobiliyatini",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metodni qo‘llashda o‘qituvchi nima qiladi?",
+    "options": [
+      "Materiallarni namoyish qiladi, tushuntiradi va izoh beradi",
+      "test topshiriqlarini beradi",
+      "uy vazifasini belgilaydi",
+      "laboratoriya asboblarini taqsimlaydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metod dars ishlanmasida qanday vositalar ishlatiladi?",
+    "options": [
+      "Diagramma, rasm, model, eksperiment va slaydlar",
+      "test varaqalari",
+      "uy vazifasi uchun topshiriqlar",
+      "nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metodning afzalligi nimada?",
+    "options": [
+      "Murakkab mavzularni tushunarli va esda qolarli qiladi",
+      "test natijasini oshiradi",
+      "uy vazifasini kamaytiradi",
+      "laboratoriya ishlarini bajaradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dars ishlanmasida ko‘rgazmali metodni tanlash nima bilan bog‘liq?",
+    "options": [
+      "Dars maqsadi va mavzuning xususiyatlari bilan",
+      "o‘quvchilar soni bilan",
+      "laboratoriya mavjudligi bilan",
+      "uy vazifasi hajmi bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metod o‘quvchilarga qanday imkoniyat beradi?",
+    "options": [
+      "Amaliy tajriba va vizual tushuncha orqali bilim olish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "nazariy bilim yodlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metod darslarida o‘quvchilar nima qilishi mumkin?",
+    "options": [
+      "Diqqat bilan kuzatish, izohlash va amalda qo‘llash",
+      "test yechish",
+      "uy vazifasini bajarish",
+      "laboratoriya asboblarini ishlatish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metod darslarining yakuniy maqsadi nima?",
+    "options": [
+      "O‘quvchilarda bilimni mustahkamlash va ko‘nikmalarni rivojlantirish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘rgazmali metodni qo‘llash orqali dars qanday bo‘ladi?",
+    "options": [
+      "Tizimli, qiziqarli va samarali",
+      "test topshiriqlarini yechish bilan",
+      "uy vazifasini kamaytirish bilan",
+      "laboratoriya ishlarini bajarish bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida bilimni shakllantirishning asosiy maqsadi nima?",
+    "options": [
+      "Nazariy bilimlarni o‘quvchilarga to‘liq va tushunarli yetkazish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "amaliy mashg‘ulotlar bilan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ko‘nikmalarni shakllantirishning asosiy yo‘li nima?",
+    "options": [
+      "Amaliy ishlar, loyihalar va tajribalar orqali",
+      "nazariy ma’ruza orqali",
+      "test topshiriqlari yechish orqali",
+      "uy vazifasini bajarish orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Malaka nima orqali rivojlantiriladi?",
+    "options": [
+      "O‘quvchi faoliyati va takroriy amaliy mashg‘ulotlar orqali",
+      "test natijasini oshirish orqali",
+      "uy vazifasini bajarish orqali",
+      "nazariy ma’ruza orqali"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bilim, ko‘nikma va malakalarni shakllantirishning asosiy tamoyili nima?",
+    "options": [
+      "Nazariy bilim va amaliy ishlarni uyg‘unlashtirish",
+      "test topshiriqlarini yechish",
+      "uy vazifasini berish",
+      "rasm va diagrammalar chizish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amaliy mashg‘ulotlar o‘quvchilarda nima rivojlantiradi?",
+    "options": [
+      "Mustaqil ishlash va muammolarni hal qilish ko‘nikmasi",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "nazariy bilimni yodlash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Texnologiya fanida bilim, ko‘nikma va malakalarni shakllantirish nimaga xizmat qiladi?",
+    "options": [
+      "O‘quvchilarning umumiy shaxsiy va kasbiy rivojlanishiga",
+      "test natijasini oshirishga",
+      "uy vazifasini kamaytirishga",
+      "laboratoriya ishlarini bajarishga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "O‘qituvchining vazifasi nima?",
+    "options": [
+      "Bilim berish, ko‘nikmalarni shakllantirish va amaliy mashg‘ulotlarni yo‘lga qo‘yish",
+      "test topshiriqlarini tayyorlash",
+      "uy vazifasini belgilash",
+      "nazariy ma’ruza qilish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bilim va ko‘nikmalarni mustahkamlash uchun nima qilinadi?",
+    "options": [
+      "Takroriy mashg‘ulotlar, loyiha ishlari va muammoli vazifalar",
+      "test topshiriqlarini yechish",
+      "uy vazifasini bajarish",
+      "nazariy ma’ruza tinglash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Malakalarni shakllantirish jarayonida o‘quvchilar qanday faoliyat bilan shug‘ullanadi?",
+    "options": [
+      "Amaliy ishlar va loyihaviy faoliyat",
+      "test yechish",
+      "uy vazifasi",
+      "nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Yakuniy maqsad nima?",
+    "options": [
+      "O‘quvchilarda bilim, ko‘nikma va malakalarni uyg‘un rivojlantirish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion buyum tizimi nima?",
+    "options": [
+      "Maxsus vositalar va buyumlar majmui bo‘lib, amaliy ishlarni bajarishga xizmat qiladi",
+      "nazariy ma’ruza",
+      "test topshiriqlari",
+      "uy vazifasini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion kompleks tizimi nimadan iborat?",
+    "options": [
+      "Bir-biriga bog‘langan buyumlar, asboblar va texnologik jarayonlardan",
+      "nazariy bilimlardan",
+      "test topshiriqlaridan",
+      "rasm va diagrammalardan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion buyum tizimi asosiy vazifasi nima?",
+    "options": [
+      "Amaliy mashg‘ulotlarni samarali bajarishga imkon berish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion kompleks tizimi qaysi maqsadda ishlatiladi?",
+    "options": [
+      "Bir nechta buyum va vositalarni birlashtirib, samarali ishlashni ta’minlash",
+      "nazariy ma’ruza uchun",
+      "test yechish uchun",
+      "uy vazifasi uchun"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion buyum tizimi va kompleks tizimning farqi nimada?",
+    "options": [
+      "Buyum tizimi alohida vositalar majmui, kompleks tizim esa ularni birlashtirib ishlash",
+      "Buyum tizimi test topshiriqlari, kompleks tizim esa ma’ruza",
+      "Buyum tizimi uy vazifasi, kompleks tizim laboratoriya",
+      "Buyum tizimi rasm, kompleks tizim diagramma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion tizimlarni o‘rganishning ahamiyati nimada?",
+    "options": [
+      "O‘quvchilarga texnologik jarayonlarni tushunish va amalda qo‘llash imkonini beradi",
+      "test natijasini oshiradi",
+      "uy vazifasini kamaytiradi",
+      "laboratoriya ishlarini bajaradi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion buyum tizimi qaysi faoliyat bilan bog‘liq?",
+    "options": [
+      "Amaliy mashg‘ulotlar va loyihaviy ishlarda",
+      "test yechishda",
+      "uy vazifasini bajarishda",
+      "nazariy ma’ruzada"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion kompleks tizimi o‘quvchilarga nima beradi?",
+    "options": [
+      "Bir nechta vosita va jarayonlarni uyg‘un ishlashini tushunish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "rasm va diagramma chizishni"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Operatsion tizimlarni o‘qitishda o‘qituvchining vazifasi nima?",
+    "options": [
+      "Buyum va kompleks tizimni tushuntirish, amaliy ko‘rsatmalar berish",
+      "test topshiriqlari berish",
+      "uy vazifasini belgilash",
+      "nazariy ma’ruza qilish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Yakuniy maqsad nima?",
+    "options": [
+      "O‘quvchilarda texnologik bilim, amaliy ko‘nikma va tizimli fikrlashni rivojlantirish",
+      "test natijasini oshirish",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mashina nima?",
+    "options": [
+      "Energiya yoki harakatni boshqa shaklga aylantirish va ishlashga mo‘ljallangan qurilma",
+      "nazariy ma’ruza",
+      "test topshiriqlari",
+      "uy vazifasini bajarish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mexanizm nima?",
+    "options": [
+      "Harakatni uzatish va boshqarish uchun buyumlar majmui",
+      "nazariy bilimlar",
+      "test topshiriqlari",
+      "diagramma va rasm"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Stanoklarning asosiy vazifasi nima?",
+    "options": [
+      "Materiallarni qayta ishlash va ishlov berish",
+      "test yechish",
+      "uy vazifasini bajarish",
+      "nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Moslama nima?",
+    "options": [
+      "Mashina yoki stanokning ishlashini qo‘llab-quvvatlovchi qo‘shimcha qurilma",
+      "test topshiriqlari",
+      "uy vazifasi",
+      "diagramma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mashina va mexanizm farqi nimada?",
+    "options": [
+      "Mashina mustaqil ishlaydi, mexanizm esa harakat uzatadi",
+      "Mashina test beradi, mexanizm ma’ruza qiladi",
+      "Mashina uy vazifasini beradi, mexanizm bajaradi",
+      "Mashina diagramma chizadi, mexanizm rasm chizadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Stanoklarning texnologik ahamiyati nimada?",
+    "options": [
+      "Materiallarni shakllantirish va ishlov berish orqali",
+      "test topshiriqlarini oshirish",
+      "uy vazifasini kamaytirish",
+      "nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mashina, mexanizm va stanoklarni o‘rganishning ahamiyati nimada?",
+    "options": [
+      "O‘quvchilarda texnologik bilim va amaliy ko‘nikmalarni rivojlantirish",
+      "O‘quvchilarni oraliq va yakuniy testlar orqali  bilimini tekshirish",
+      "O‘quvchilarni o’tilgan mavzu bo’yicha uy vazifalarini tekshirish",
+      "O‘quvchilar uyga vazifa berilgan diagramma chizmasini chizish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Moslamalar nima uchun ishlatiladi?",
+    "options": [
+      "Mashina yoki stanokning samarali ishlashini ta’minlash uchun",
+      "test natijasini oshirish",
+      "uy vazifasini bajarish",
+      "nazariy ma’ruza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mashina va stanoklarni o‘qitishda o‘qituvchi nima qiladi?",
+    "options": [
+      "Qurilmani tushuntiradi, ishlashini namoyish qiladi",
+      "O’qituvchi oquvchilarga test topshiriqlari beradi",
+      "O’qituvchi oquvchilarga uy vazifasini belgilaydi",
+      "O’qituvchi oquvchilarga  diagramma chizadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Yakuniy maqsad nima?",
+    "options": [
+      "O‘quvchilarda bilim, amaliy ko‘nikma va tizimli fikrlashni rivojlantirish",
+      "O‘quvchilarda bilim, amaliy ko‘nikma va test natijasini oshirishdan iborat",
+      "uy vazifasini kamaytirish",
+      "laboratoriya ishlarini bajarish"
+    ],
+    "correct": 0
+  }
+]
